@@ -46,6 +46,26 @@
     }
   ],
 
+  "popularDishes": [
+    {
+      "id": 1,
+      "name": "Sandwiches",
+      "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
+      "count": "25"
+    },
+    { "id": 2, "name": "Soups", "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png", "count": "30" },
+    { "id": 3, "name": "Pizzas", "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png", "count": "45" },
+    { "id": 4, "name": "Pastas", "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png", "count": "10" },
+    { "id": 5, "name": "Chines", "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png", "count": "12" },
+    {
+      "id": 6,
+      "name": "Burgers",
+      "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
+      "count": "15"
+    },
+    { "id": 7, "name": "Steaks", "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png", "count": "20" }
+  ],
+
   "users": [
     {
       "id": 1,
