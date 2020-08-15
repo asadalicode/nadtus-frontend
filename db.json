@@ -1,4 +1,18 @@
 {
+  
+    "foodCategories": [
+    { id: '1', src: 'http://lorempixel.com/640/480/food', title: 'American', value: '156' },
+    { id: '2', src: 'http://lorempixel.com/640/480/food', title: 'Pizza', value: '120' },
+    { id: '3', src: 'http://lorempixel.com/640/480/food', title: 'Healthy', value: '130' },
+    { id: '4', src: 'http://lorempixel.com/640/480/food', title: 'Vegetarian', value: '120' },
+    { id: '5', src: 'http://lorempixel.com/640/480/food', title: 'Chinese', value: '111' },
+    { id: '6', src: 'http://lorempixel.com/640/480/food', title: 'Hamburgers', value: '958' },
+    { id: '7', src: 'http://lorempixel.com/640/480/food', title: 'Dessert', value: '99' },
+    { id: '8', src: 'http://lorempixel.com/640/480/foodg', title: 'Chicken', value: '46' },
+    { id: '9', src: 'http://lorempixel.com/640/480/food', title: 'Indian', value: '26' }
+  ],
+  
+  
   "users": [
     {
       "id": 1,
