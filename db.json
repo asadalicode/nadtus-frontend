@@ -1,18 +1,51 @@
 {
-  
-    "foodCategories": [
-    { id: '1', src: 'http://lorempixel.com/640/480/food', title: 'American', value: '156' },
-    { id: '2', src: 'http://lorempixel.com/640/480/food', title: 'Pizza', value: '120' },
-    { id: '3', src: 'http://lorempixel.com/640/480/food', title: 'Healthy', value: '130' },
-    { id: '4', src: 'http://lorempixel.com/640/480/food', title: 'Vegetarian', value: '120' },
-    { id: '5', src: 'http://lorempixel.com/640/480/food', title: 'Chinese', value: '111' },
-    { id: '6', src: 'http://lorempixel.com/640/480/food', title: 'Hamburgers', value: '958' },
-    { id: '7', src: 'http://lorempixel.com/640/480/food', title: 'Dessert', value: '99' },
-    { id: '8', src: 'http://lorempixel.com/640/480/foodg', title: 'Chicken', value: '46' },
-    { id: '9', src: 'http://lorempixel.com/640/480/food', title: 'Indian', value: '26' }
+  "foodCategories": [
+    {
+      "id": "1",
+      "src": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
+      "title": "American",
+      "value": "156"
+    },
+    {
+      "id": "2",
+      "src": "https://www.foodiesfeed.com/wp-content/uploads/2019/06/dinning-burger-and-grilled-pork-tenderloin-in-restaurant-413x275.jpg",
+      "title": "Pizza",
+      "value": "120"
+    },
+    {
+      "id": "3",
+      "src": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
+      "title": "Healthy",
+      "value": "130"
+    },
+    { "id": "4", "src": "http://lorempixel.com/640/480/food", "title": "Vegetarian", "value": "120" },
+    {
+      "id": "5",
+      "src": "https://www.foodiesfeed.com/wp-content/uploads/2019/06/dinning-burger-and-grilled-pork-tenderloin-in-restaurant-413x275.jpg",
+      "title": "Chinese",
+      "value": "111"
+    },
+    { "id": "6", "src": "http://lorempixel.com/640/480/food", "title": "Hamburgers", "value": "958" },
+    {
+      "id": "7",
+      "src": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
+      "title": "Dessert",
+      "value": "99"
+    },
+    {
+      "id": "8",
+      "src": "https://www.foodiesfeed.com/wp-content/uploads/2019/06/dinning-burger-and-grilled-pork-tenderloin-in-restaurant-413x275.jpg",
+      "title": "Chicken",
+      "value": "46"
+    },
+    {
+      "id": "9",
+      "src": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
+      "title": "Indian",
+      "value": "26"
+    }
   ],
-  
-  
+
   "users": [
     {
       "id": 1,
@@ -58,6 +91,13 @@
   "vendorsList": [
     {
       "id": 0,
+      "img": "https://www.foodiesfeed.com/wp-content/uploads/2019/06/top-view-for-box-of-2-burgers-home-made-684x1024.jpg",
+      "brand": "World Famous",
+      "food_category": [
+        { "id": 1, "name": "North" },
+        { "id": 1, "name": "Hamburgers" },
+        { "id": 1, "name": "Pure veg" }
+      ],
       "name": "Scottie Krajcik",
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Isacchester",
@@ -73,6 +113,13 @@
     },
     {
       "id": 1,
+      "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
+      "brand": "World Famous",
+      "food_category": [
+        { "id": 1, "name": "North" },
+        { "id": 1, "name": "Hamburgers" },
+        { "id": 1, "name": "Pure veg" }
+      ],
       "name": "Hailey Heathcote",
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "New Hymanhaven",
@@ -88,7 +135,14 @@
     },
     {
       "id": 2,
+      "brand": "The osahan restaurant",
+      "img": "https://www.foodiesfeed.com/wp-content/uploads/2015/03/basic-italian-pizza-margherita-300x200.jpg",
       "name": "Brad Mueller",
+      "food_category": [
+        { "id": 1, "name": "North" },
+        { "id": 1, "name": "Hamburgers" },
+        { "id": 1, "name": "Pure veg" }
+      ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "North Quentinfurt",
       "location": "Purdy Park",
@@ -103,12 +157,19 @@
     },
     {
       "id": 3,
+      "img": "https://www.foodiesfeed.com/wp-content/uploads/2015/09/summer-juicy-beef-burger.jpg",
+      "brand": "Jack Fry's",
       "name": "Fanny Bosco",
+      "food_category": [
+        { "id": 1, "name": "North" },
+        { "id": 1, "name": "Hamburgers" },
+        { "id": 1, "name": "Pure veg" }
+      ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Moenville",
       "location": "Sauer Tunnel",
-      "address": "2761 Letha Circles",
-      "delivery_time": "20-35 min",
+      "address": "2761 Letha triangles",
+      "delivery_time": "15-20 min",
       "favouite": false,
       "category": "car",
       "delivery": "free Delivery",
@@ -118,12 +179,19 @@
     },
     {
       "id": 4,
+      "img": "https://www.foodiesfeed.com/wp-content/uploads/2019/06/dinning-burger-and-grilled-pork-tenderloin-in-restaurant-413x275.jpg",
+      "brand": "World Famous",
       "name": "Layne Kreiger",
+      "food_category": [
+        { "id": 1, "name": "North" },
+        { "id": 1, "name": "Hamburgers" },
+        { "id": 1, "name": "Pure veg" }
+      ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Schmidtfurt",
       "location": "Weimann Street",
       "address": "69658 Buck Burgs",
-      "delivery_time": "20-35 min",
+      "delivery_time": "25-35 min",
       "favouite": false,
       "category": "bar",
       "delivery": "free Delivery",
@@ -133,12 +201,19 @@
     },
     {
       "id": 5,
+      "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
+      "brand": "World Famous",
       "name": "Dr. Amir Steuber",
+      "food_category": [
+        { "id": 1, "name": "North" },
+        { "id": 1, "name": "Hamburgers" },
+        { "id": 1, "name": "Pure veg" }
+      ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Jaceside",
       "location": "Jody Knoll",
       "address": "47845 Boyer Port",
-      "delivery_time": "20-35 min",
+      "delivery_time": "15-35 min",
       "favouite": false,
       "category": "bar",
       "delivery": "free Delivery",
@@ -148,12 +223,19 @@
     },
     {
       "id": 6,
+      "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
+      "brand": "World Famous",
       "name": "Richie Price",
+      "food_category": [
+        { "id": 1, "name": "South Indian" },
+        { "id": 1, "name": "Asian" },
+        { "id": 1, "name": "Pure veg" }
+      ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "North Vincenzo",
       "location": "Ankunding Roads",
       "address": "5318 Marlee Shores",
-      "delivery_time": "20-35 min",
+      "delivery_time": "10-25 min",
       "favouite": false,
       "category": "bar",
       "delivery": "free Delivery",
@@ -163,12 +245,19 @@
     },
     {
       "id": 7,
+      "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
+      "brand": "Bite Me Sandwiches",
+      "food_category": [
+        { "id": 1, "name": "North" },
+        { "id": 1, "name": "Hamburgers" },
+        { "id": 1, "name": "Pure veg" }
+      ],
       "name": "Zachary Wisoky",
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "New Hayleeberg",
       "location": "Daniel Unions",
       "address": "601 Kutch Shoal",
-      "delivery_time": "20-35 min",
+      "delivery_time": "23-35 min",
       "favouite": false,
       "category": "car",
       "delivery": "free Delivery",
@@ -178,12 +267,19 @@
     },
     {
       "id": 8,
+      "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
+      "brand": "Country's Famous",
+      "food_category": [
+        { "id": 1, "name": "South Indian" },
+        { "id": 1, "name": "Asian" },
+        { "id": 1, "name": "Pure veg" }
+      ],
       "name": "Shana Greenfelder",
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "West Trent",
       "location": "Muller Camp",
       "address": "1242 Bennie Via",
-      "delivery_time": "20-35 min",
+      "delivery_time": "30-35 min",
       "favouite": false,
       "category": "bar",
       "delivery": "free Delivery",
@@ -193,6 +289,13 @@
     },
     {
       "id": 9,
+      "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
+      "brand": "World Famous",
+      "food_category": [
+        { "id": 1, "name": "North Indian" },
+        { "id": 1, "name": "Indian" },
+        { "id": 1, "name": "Pure veg" }
+      ],
       "name": "Dr. Aurelie Hickle",
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Johnstonland",
