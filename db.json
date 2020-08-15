@@ -1,0 +1,206 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Asad ali",
+      "lastname": "Ali",
+      "email": "Asad@gmail.com",
+      "phone": "030033432123",
+      "promo": "",
+      "password": "123123",
+      "aggrement": true
+    },
+    {
+      "username": "saqib@gmail.com",
+      "firstname": "Saqib",
+      "lastname": "Ali",
+      "password": "11223344",
+      "confirmpassword": "11223344",
+      "termandconditions": false,
+      "promocode": "",
+      "id": 2
+    },
+    {
+      "username": "saqib@gmail.com",
+      "firstname": "Saqib",
+      "lastname": "Ali",
+      "password": "11223344",
+      "confirmpassword": "11223344",
+      "termandconditions": false,
+      "promocode": "",
+      "id": 3
+    },
+    {
+      "username": "saqib@gmail.com",
+      "firstname": "Saqib",
+      "lastname": "Ali",
+      "password": "11223344",
+      "confirmpassword": "11223344",
+      "termandconditions": true,
+      "promocode": "",
+      "id": 4
+    }
+  ],
+  "vendorsList": [
+    {
+      "id": 0,
+      "name": "Scottie Krajcik",
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "Isacchester",
+      "location": "Leda Point",
+      "address": "90607 Cormier Spurs",
+      "delivery_time": "20-35 min",
+      "favouite": false,
+      "category": "car",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 12262,
+      "rating": "3.1"
+    },
+    {
+      "id": 1,
+      "name": "Hailey Heathcote",
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "New Hymanhaven",
+      "location": "Myriam Crescent",
+      "address": "315 Waters Meadows",
+      "delivery_time": "20-35 min",
+      "favouite": false,
+      "category": "bar",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 8154,
+      "rating": "3.1"
+    },
+    {
+      "id": 2,
+      "name": "Brad Mueller",
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "North Quentinfurt",
+      "location": "Purdy Park",
+      "address": "6725 Champlin Lakes",
+      "delivery_time": "20-35 min",
+      "favouite": false,
+      "category": "bar",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 89984,
+      "rating": "3.1"
+    },
+    {
+      "id": 3,
+      "name": "Fanny Bosco",
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "Moenville",
+      "location": "Sauer Tunnel",
+      "address": "2761 Letha Circles",
+      "delivery_time": "20-35 min",
+      "favouite": false,
+      "category": "car",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 346,
+      "rating": "3.1"
+    },
+    {
+      "id": 4,
+      "name": "Layne Kreiger",
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "Schmidtfurt",
+      "location": "Weimann Street",
+      "address": "69658 Buck Burgs",
+      "delivery_time": "20-35 min",
+      "favouite": false,
+      "category": "bar",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 24345,
+      "rating": "3.1"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Amir Steuber",
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "Jaceside",
+      "location": "Jody Knoll",
+      "address": "47845 Boyer Port",
+      "delivery_time": "20-35 min",
+      "favouite": false,
+      "category": "bar",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 16264,
+      "rating": "3.1"
+    },
+    {
+      "id": 6,
+      "name": "Richie Price",
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "North Vincenzo",
+      "location": "Ankunding Roads",
+      "address": "5318 Marlee Shores",
+      "delivery_time": "20-35 min",
+      "favouite": false,
+      "category": "bar",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 65170,
+      "rating": "3.1"
+    },
+    {
+      "id": 7,
+      "name": "Zachary Wisoky",
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "New Hayleeberg",
+      "location": "Daniel Unions",
+      "address": "601 Kutch Shoal",
+      "delivery_time": "20-35 min",
+      "favouite": false,
+      "category": "car",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 49571,
+      "rating": "3.1"
+    },
+    {
+      "id": 8,
+      "name": "Shana Greenfelder",
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "West Trent",
+      "location": "Muller Camp",
+      "address": "1242 Bennie Via",
+      "delivery_time": "20-35 min",
+      "favouite": false,
+      "category": "bar",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 30746,
+      "rating": "3.1"
+    },
+    {
+      "id": 9,
+      "name": "Dr. Aurelie Hickle",
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "Johnstonland",
+      "location": "Nikki Knoll",
+      "address": "229 Lisette Squares",
+      "delivery_time": "20-35 min",
+      "favouite": false,
+      "category": "bar",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 64270,
+      "rating": "3.1"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
