@@ -110,9 +110,10 @@
   ],
   "vendorsList": [
     {
-      "id": 0,
+      "id": 1,
       "img": "https://www.foodiesfeed.com/wp-content/uploads/2019/06/top-view-for-box-of-2-burgers-home-made-684x1024.jpg",
       "brand": "World Famous",
+      "offer": "250$ for two",
       "food_category": [
         { "id": 1, "name": "North" },
         { "id": 1, "name": "Hamburgers" },
@@ -132,9 +133,10 @@
       "rating": "3.1"
     },
     {
-      "id": 1,
+      "id": 2,
       "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
       "brand": "World Famous",
+      "offer": "200$ for three",
       "food_category": [
         { "id": 1, "name": "North" },
         { "id": 1, "name": "Hamburgers" },
@@ -154,8 +156,9 @@
       "rating": "3.1"
     },
     {
-      "id": 2,
+      "id": 3,
       "brand": "The osahan restaurant",
+      "offer": "300$ for three",
       "img": "https://www.foodiesfeed.com/wp-content/uploads/2015/03/basic-italian-pizza-margherita-300x200.jpg",
       "name": "Brad Mueller",
       "food_category": [
@@ -176,9 +179,10 @@
       "rating": "3.1"
     },
     {
-      "id": 3,
+      "id": 4,
       "img": "https://www.foodiesfeed.com/wp-content/uploads/2015/09/summer-juicy-beef-burger.jpg",
       "brand": "Jack Fry's",
+      "offer": "200$ for three",
       "name": "Fanny Bosco",
       "food_category": [
         { "id": 1, "name": "North" },
@@ -198,9 +202,10 @@
       "rating": "3.1"
     },
     {
-      "id": 4,
+      "id": 5,
       "img": "https://www.foodiesfeed.com/wp-content/uploads/2019/06/dinning-burger-and-grilled-pork-tenderloin-in-restaurant-413x275.jpg",
       "brand": "World Famous",
+      "offer": "200$ for three",
       "name": "Layne Kreiger",
       "food_category": [
         { "id": 1, "name": "North" },
@@ -220,9 +225,10 @@
       "rating": "3.1"
     },
     {
-      "id": 5,
+      "id": 6,
       "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
       "brand": "World Famous",
+      "offer": "200$ for three",
       "name": "Dr. Amir Steuber",
       "food_category": [
         { "id": 1, "name": "North" },
@@ -242,9 +248,10 @@
       "rating": "3.1"
     },
     {
-      "id": 6,
+      "id": 7,
       "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
       "brand": "World Famous",
+      "offer": "400$ for three",
       "name": "Richie Price",
       "food_category": [
         { "id": 1, "name": "South Indian" },
@@ -264,9 +271,10 @@
       "rating": "3.1"
     },
     {
-      "id": 7,
+      "id": 8,
       "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
       "brand": "Bite Me Sandwiches",
+      "offer": "500$ for four",
       "food_category": [
         { "id": 1, "name": "North" },
         { "id": 1, "name": "Hamburgers" },
@@ -286,9 +294,10 @@
       "rating": "3.1"
     },
     {
-      "id": 8,
+      "id": 9,
       "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
       "brand": "Country's Famous",
+      "offer": "100$ for three",
       "food_category": [
         { "id": 1, "name": "South Indian" },
         { "id": 1, "name": "Asian" },
@@ -308,9 +317,10 @@
       "rating": "3.1"
     },
     {
-      "id": 9,
+      "id": 10,
       "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
       "brand": "World Famous",
+      "offer": "200$ for six",
       "food_category": [
         { "id": 1, "name": "North Indian" },
         { "id": 1, "name": "Indian" },
