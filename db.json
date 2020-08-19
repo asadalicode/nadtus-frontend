@@ -18,14 +18,24 @@
       "title": "Healthy",
       "value": "130"
     },
-    { "id": "4", "src": "http://lorempixel.com/640/480/food", "title": "Vegetarian", "value": "120" },
+    {
+      "id": "4",
+      "src": "http://lorempixel.com/640/480/food",
+      "title": "Vegetarian",
+      "value": "120"
+    },
     {
       "id": "5",
       "src": "https://www.foodiesfeed.com/wp-content/uploads/2019/06/dinning-burger-and-grilled-pork-tenderloin-in-restaurant-413x275.jpg",
       "title": "Chinese",
       "value": "111"
     },
-    { "id": "6", "src": "http://lorempixel.com/640/480/food", "title": "Hamburgers", "value": "958" },
+    {
+      "id": "6",
+      "src": "http://lorempixel.com/640/480/food",
+      "title": "Hamburgers",
+      "value": "958"
+    },
     {
       "id": "7",
       "src": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
@@ -45,7 +55,6 @@
       "value": "26"
     }
   ],
-
   "popularDishes": [
     {
       "id": 1,
@@ -53,19 +62,43 @@
       "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
       "count": "25"
     },
-    { "id": 2, "name": "Soups", "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png", "count": "30" },
-    { "id": 3, "name": "Pizzas", "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png", "count": "45" },
-    { "id": 4, "name": "Pastas", "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png", "count": "10" },
-    { "id": 5, "name": "Chines", "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png", "count": "12" },
+    {
+      "id": 2,
+      "name": "Soups",
+      "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png",
+      "count": "30"
+    },
+    {
+      "id": 3,
+      "name": "Pizzas",
+      "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png",
+      "count": "45"
+    },
+    {
+      "id": 4,
+      "name": "Pastas",
+      "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png",
+      "count": "10"
+    },
+    {
+      "id": 5,
+      "name": "Chines",
+      "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png",
+      "count": "12"
+    },
     {
       "id": 6,
       "name": "Burgers",
       "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
       "count": "15"
     },
-    { "id": 7, "name": "Steaks", "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png", "count": "20" }
+    {
+      "id": 7,
+      "name": "Steaks",
+      "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
+      "count": "20"
+    }
   ],
-
   "users": [
     {
       "id": 1,
@@ -75,7 +108,17 @@
       "phone": "030033432123",
       "promo": "",
       "password": "123123",
-      "aggrement": true
+      "aggrement": true,
+      "payload": {
+        "id": 1,
+        "firstname": "Asad ali",
+        "lastname": "Ali12",
+        "email": "Asad@gmail.com",
+        "phone": "030033432123",
+        "promo": "",
+        "password": "123123",
+        "aggrement": true
+      }
     },
     {
       "username": "saqib@gmail.com",
@@ -115,9 +158,18 @@
       "brand": "World Famous",
       "offer": "250$ for two",
       "food_category": [
-        { "id": 1, "name": "North" },
-        { "id": 1, "name": "Hamburgers" },
-        { "id": 1, "name": "Pure veg" }
+        {
+          "id": 1,
+          "name": "North"
+        },
+        {
+          "id": 1,
+          "name": "Hamburgers"
+        },
+        {
+          "id": 1,
+          "name": "Pure veg"
+        }
       ],
       "name": "Scottie Krajcik",
       "avatar": "http://lorempixel.com/640/480/food",
@@ -138,9 +190,18 @@
       "brand": "World Famous",
       "offer": "200$ for three",
       "food_category": [
-        { "id": 1, "name": "North" },
-        { "id": 1, "name": "Hamburgers" },
-        { "id": 1, "name": "Pure veg" }
+        {
+          "id": 1,
+          "name": "North"
+        },
+        {
+          "id": 1,
+          "name": "Hamburgers"
+        },
+        {
+          "id": 1,
+          "name": "Pure veg"
+        }
       ],
       "name": "Hailey Heathcote",
       "avatar": "http://lorempixel.com/640/480/food",
@@ -162,9 +223,18 @@
       "img": "https://www.foodiesfeed.com/wp-content/uploads/2015/03/basic-italian-pizza-margherita-300x200.jpg",
       "name": "Brad Mueller",
       "food_category": [
-        { "id": 1, "name": "North" },
-        { "id": 1, "name": "Hamburgers" },
-        { "id": 1, "name": "Pure veg" }
+        {
+          "id": 1,
+          "name": "North"
+        },
+        {
+          "id": 1,
+          "name": "Hamburgers"
+        },
+        {
+          "id": 1,
+          "name": "Pure veg"
+        }
       ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "North Quentinfurt",
@@ -185,9 +255,18 @@
       "offer": "200$ for three",
       "name": "Fanny Bosco",
       "food_category": [
-        { "id": 1, "name": "North" },
-        { "id": 1, "name": "Hamburgers" },
-        { "id": 1, "name": "Pure veg" }
+        {
+          "id": 1,
+          "name": "North"
+        },
+        {
+          "id": 1,
+          "name": "Hamburgers"
+        },
+        {
+          "id": 1,
+          "name": "Pure veg"
+        }
       ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Moenville",
@@ -208,9 +287,18 @@
       "offer": "200$ for three",
       "name": "Layne Kreiger",
       "food_category": [
-        { "id": 1, "name": "North" },
-        { "id": 1, "name": "Hamburgers" },
-        { "id": 1, "name": "Pure veg" }
+        {
+          "id": 1,
+          "name": "North"
+        },
+        {
+          "id": 1,
+          "name": "Hamburgers"
+        },
+        {
+          "id": 1,
+          "name": "Pure veg"
+        }
       ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Schmidtfurt",
@@ -231,9 +319,18 @@
       "offer": "200$ for three",
       "name": "Dr. Amir Steuber",
       "food_category": [
-        { "id": 1, "name": "North" },
-        { "id": 1, "name": "Hamburgers" },
-        { "id": 1, "name": "Pure veg" }
+        {
+          "id": 1,
+          "name": "North"
+        },
+        {
+          "id": 1,
+          "name": "Hamburgers"
+        },
+        {
+          "id": 1,
+          "name": "Pure veg"
+        }
       ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Jaceside",
@@ -254,9 +351,18 @@
       "offer": "400$ for three",
       "name": "Richie Price",
       "food_category": [
-        { "id": 1, "name": "South Indian" },
-        { "id": 1, "name": "Asian" },
-        { "id": 1, "name": "Pure veg" }
+        {
+          "id": 1,
+          "name": "South Indian"
+        },
+        {
+          "id": 1,
+          "name": "Asian"
+        },
+        {
+          "id": 1,
+          "name": "Pure veg"
+        }
       ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "North Vincenzo",
@@ -276,9 +382,18 @@
       "brand": "Bite Me Sandwiches",
       "offer": "500$ for four",
       "food_category": [
-        { "id": 1, "name": "North" },
-        { "id": 1, "name": "Hamburgers" },
-        { "id": 1, "name": "Pure veg" }
+        {
+          "id": 1,
+          "name": "North"
+        },
+        {
+          "id": 1,
+          "name": "Hamburgers"
+        },
+        {
+          "id": 1,
+          "name": "Pure veg"
+        }
       ],
       "name": "Zachary Wisoky",
       "avatar": "http://lorempixel.com/640/480/food",
@@ -299,9 +414,18 @@
       "brand": "Country's Famous",
       "offer": "100$ for three",
       "food_category": [
-        { "id": 1, "name": "South Indian" },
-        { "id": 1, "name": "Asian" },
-        { "id": 1, "name": "Pure veg" }
+        {
+          "id": 1,
+          "name": "South Indian"
+        },
+        {
+          "id": 1,
+          "name": "Asian"
+        },
+        {
+          "id": 1,
+          "name": "Pure veg"
+        }
       ],
       "name": "Shana Greenfelder",
       "avatar": "http://lorempixel.com/640/480/food",
@@ -322,9 +446,18 @@
       "brand": "World Famous",
       "offer": "200$ for six",
       "food_category": [
-        { "id": 1, "name": "North Indian" },
-        { "id": 1, "name": "Indian" },
-        { "id": 1, "name": "Pure veg" }
+        {
+          "id": 1,
+          "name": "North Indian"
+        },
+        {
+          "id": 1,
+          "name": "Indian"
+        },
+        {
+          "id": 1,
+          "name": "Pure veg"
+        }
       ],
       "name": "Dr. Aurelie Hickle",
       "avatar": "http://lorempixel.com/640/480/food",
@@ -338,6 +471,80 @@
       "open": true,
       "comments": 64270,
       "rating": "3.1"
+    }
+  ],
+  "favorites": [
+    {
+      "user_id": 1,
+      "restaurants": [
+        {
+          "id": 9,
+          "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
+          "brand": "World Famous",
+          "food_category": [
+            {
+              "id": 1,
+              "name": "North Indian"
+            },
+            {
+              "id": 1,
+              "name": "Indian"
+            },
+            {
+              "id": 1,
+              "name": "Pure veg"
+            }
+          ],
+          "name": "Dr. Aurelie Hickle",
+          "avatar": "http://lorempixel.com/640/480/food",
+          "city": "Johnstonland",
+          "location": "Nikki Knoll",
+          "address": "229 Lisette Squares",
+          "delivery_time": "20-35 min",
+          "favouite": false,
+          "category": "bar",
+          "delivery": "free Delivery",
+          "open": true,
+          "comments": 64270,
+          "rating": "3.1"
+        }
+      ]
+    },
+    {
+      "user_id": 2,
+      "restaurants": [
+        {
+          "id": 9,
+          "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
+          "brand": "World Famous",
+          "food_category": [
+            {
+              "id": 1,
+              "name": "North Indian"
+            },
+            {
+              "id": 1,
+              "name": "Indian"
+            },
+            {
+              "id": 1,
+              "name": "Pure veg"
+            }
+          ],
+          "name": "Dr. Aurelie Hickle",
+          "avatar": "http://lorempixel.com/640/480/food",
+          "city": "Johnstonland",
+          "location": "Nikki Knoll",
+          "address": "229 Lisette Squares",
+          "delivery_time": "20-35 min",
+          "favouite": false,
+          "category": "bar",
+          "delivery": "free Delivery",
+          "open": true,
+          "comments": 64270,
+          "rating": "3.1"
+        }
+      ]
     }
   ],
   "comments": [
