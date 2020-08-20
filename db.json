@@ -734,8 +734,80 @@
       ]
     }
   ],
-  "order-online": [
+  "retaurant-details": [
     {
+      "img": "https://www.foodiesfeed.com/wp-content/uploads/2015/03/basic-italian-pizza-margherita-300x200.jpg",
+      "name": "Spice Hut Indian Restaurant",
+      "location": "2036 2ND AVE, NEW YORK, NY 10029",
+      "status": "OPEN",
+      "brand": "North Indian",
+      "delivery_time": "25-35 min",
+      "ratings": "3.4",
+      "ratings-count": "23",
+      "reviews": "87",
+      "address": "Jagjit Nagar, Near Railway Crossing, Jagjit Nagar, Near Railway Crossing",
+      "phone_primary": " +91 01234-56789",
+      "phone_secondary": "+91 01234-56789",
+      "email_primary": "iamosahan@gmail.com,         ",
+      "email_secondary": "osahaneat@gmail.com",
+      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
+      "open_status": "OPEN NOW",
+      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
+      "services": [
+        {
+          "id": 1,
+          "name": "Breakfast"
+        },
+        {
+          "id": 2,
+          "name": "Vegetarian Only"
+        },
+        {
+          "id": 3,
+          "name": "Indoor Seating"
+        },
+        {
+          "id": 4,
+          "name": "No Alcohol Available"
+        },
+        {
+          "id": 5,
+          "name": "Indoor Seating"
+        },
+        {
+          "id": 6,
+          "name": "Breakfast"
+        }
+      ],
+      "gallery": [
+        {
+          "id": 1,
+          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/1.png"
+        },
+        {
+          "id": 2,
+          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/2.png"
+        },
+        {
+          "id": 3,
+          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/3.png"
+        }
+      ],
+      "food_category": [
+        {
+          "id": 1,
+          "name": "North"
+        },
+        {
+          "id": 1,
+          "name": "Hamburgers"
+        },
+        {
+          "id": 1,
+          "name": "Pure veg"
+        }
+      ],
+
       "popularDishes": [
         {
           "id": 1,
@@ -780,30 +852,16 @@
           "count": "20"
         }
       ],
-      "best-sellers": [
+      "best_sellers": [
         {
           "id": 1,
-          "name": "Bite Me Sandwiches",
+          "name": "Bite Me Clubs",
           "price": "229$",
-          "state": "NEW",
-          "rating": "3.1",
-          "reviews": "200+",
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 1,
-          "name": "Bite Me Sandwiches",
+          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
           "promotion": "Promoted",
-          "price": "229$",
           "favourite": true,
           "state": "NEW",
-          "rating": "3.1",
+          "rating": "4.1",
           "reviews": "200+",
           "category": "North Indian",
           "food_category": [
@@ -815,12 +873,13 @@
         },
         {
           "id": 2,
+          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
+          "name": "Bite Me Sandwiches",
           "promotion": "Promoted",
-          "name": "Famous Dave's Bar-B",
+          "price": "229$",
           "favourite": true,
-          "price": "329$",
           "state": "NEW",
-          "rating": "3.1",
+          "rating": "2.1",
           "reviews": "200+",
           "category": "North Indian",
           "food_category": [
@@ -832,6 +891,25 @@
         },
         {
           "id": 3,
+          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
+          "promotion": "Promoted",
+          "name": "Famous Dave's Bar-B",
+          "favourite": true,
+          "price": "329$",
+          "state": "NEW",
+          "rating": "4.1",
+          "reviews": "200+",
+          "category": "North Indian",
+          "food_category": [
+            {
+              "id": 1,
+              "name": "Indian"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
           "favourite": true,
           "promotion": "Promoted",
           "name": "Bite Me Sandwiches",
@@ -848,7 +926,7 @@
           ]
         }
       ],
-      "quick-bites": [
+      "quick_bites": [
         {
           "id": 1,
           "name": "Chicken Tikka Sub",
@@ -874,6 +952,7 @@
       "starters": [
         {
           "id": 1,
+          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
           "name": "Veg Spring Roll",
           "price": "$314 - 12",
           "famous": "",
@@ -881,6 +960,7 @@
         },
         {
           "id": 2,
+          "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
           "name": "Stuffed Mushroom",
           "famous": "BESTSELLER",
           "price": "$314",
@@ -888,6 +968,7 @@
         },
         {
           "id": 3,
+          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
           "name": "Honey Chilli Potato",
           "famous": "Pure Veg",
           "price": "$31",
