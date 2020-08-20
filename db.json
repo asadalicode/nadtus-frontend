@@ -55,6 +55,193 @@
       "value": "26"
     }
   ],
+
+  "top-restaurants-trends": [
+    {
+      "id": 1,
+      "name": "Breakfast",
+      "restaurant": "Namkeen Cuisine"
+    },
+    {
+      "id": 2,
+      "name": "Lunch",
+      "restaurant": "McDonalds"
+    },
+    {
+      "id": 3,
+      "name": "Dinner",
+      "restaurant": "Biglos"
+    },
+    {
+      "id": 4,
+      "name": "Cafes",
+      "restaurant": "Cowboy Restaurant"
+    },
+    {
+      "id": 5,
+      "name": "Delivery",
+      "restaurant": "Tulsimia Restaurant"
+    }
+  ],
+
+  "offers-filter": [
+    {
+      "total-restaurants": "344",
+      "location": [
+        {
+          "id": 1,
+          "name": "Ludhiana Junction",
+          "count": "22"
+        },
+        {
+          "id": 2,
+          "name": "Modal Town",
+          "count": "50"
+        },
+        {
+          "id": 3,
+          "name": "Civil Lines",
+          "count": "70"
+        },
+        {
+          "id": 4,
+          "name": "Dugri",
+          "count": "246"
+        },
+        {
+          "id": 5,
+          "name": "PAU",
+          "count": "56"
+        },
+        {
+          "id": 6,
+          "name": "Bahawal",
+          "count": "126"
+        }
+      ],
+
+      "cusines": [
+        {
+          "id": 1,
+          "name": "American",
+          "count": "156"
+        },
+        {
+          "id": 2,
+          "name": "Indian",
+          "count": "456"
+        },
+        {
+          "id": 3,
+          "name": "Pizza",
+          "count": "120"
+        },
+        {
+          "id": 4,
+          "name": "Chicken",
+          "count": "32"
+        },
+
+        {
+          "id": 5,
+          "name": "Healthy",
+          "count": "130"
+        },
+        {
+          "id": 6,
+          "name": "Vegetarian",
+          "count": "120"
+        },
+        {
+          "id": 7,
+          "name": "Chinese",
+          "count": "111"
+        },
+        {
+          "id": 8,
+          "name": "Hamburgers",
+          "count": "95"
+        },
+        {
+          "id": 9,
+          "name": "Dessert",
+          "count": "78"
+        }
+      ],
+      "feature": [
+        {
+          "id": 1,
+          "type": "Free Delivery",
+          "count": "111"
+        },
+        {
+          "id": 2,
+          "type": "Coupons",
+          "count": "120"
+        },
+        {
+          "id": 3,
+          "type": "Open Now [1:32am]",
+          "count": "156"
+        }
+      ],
+      "delivery-time": [
+        {
+          "id": 1,
+          "duration": "Any Time"
+        },
+        {
+          "id": 2,
+          "duration": "25 min"
+        },
+        {
+          "id": 3,
+          "duration": "35 min"
+        },
+        {
+          "id": 4,
+          "duration": "40 min"
+        },
+        {
+          "id": 5,
+          "duration": "50 min"
+        }
+      ],
+      "Category": [
+        {
+          "id": 1,
+          "name": "Delivery",
+          "count": "20"
+        },
+        {
+          "id": 2,
+          "name": "Dine-out",
+          "count": 30
+        },
+        {
+          "id": 3,
+          "name": "Cafes",
+          "count": 50
+        }
+      ],
+
+      "partners": [
+        {
+          "id": 1,
+          "name": "Gold Partner"
+        },
+        {
+          "id": 2,
+          "name": "Order Food Online"
+        },
+        {
+          "id": 3,
+          "name": "Osahan Eat"
+        }
+      ]
+    }
+  ],
+
   "popularDishes": [
     {
       "id": 1,
@@ -543,6 +730,207 @@
           "open": true,
           "comments": 64270,
           "rating": "3.1"
+        }
+      ]
+    }
+  ],
+  "order-online": [
+    {
+      "popularDishes": [
+        {
+          "id": 1,
+          "name": "Sandwiches",
+          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
+          "count": "25"
+        },
+        {
+          "id": 2,
+          "name": "Soups",
+          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png",
+          "count": "30"
+        },
+        {
+          "id": 3,
+          "name": "Pizzas",
+          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png",
+          "count": "45"
+        },
+        {
+          "id": 4,
+          "name": "Pastas",
+          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png",
+          "count": "10"
+        },
+        {
+          "id": 5,
+          "name": "Chines",
+          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png",
+          "count": "12"
+        },
+        {
+          "id": 6,
+          "name": "Burgers",
+          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
+          "count": "15"
+        },
+        {
+          "id": 7,
+          "name": "Steaks",
+          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
+          "count": "20"
+        }
+      ],
+      "best-sellers": [
+        {
+          "id": 1,
+          "name": "Bite Me Sandwiches",
+          "price": "229$",
+          "state": "NEW",
+          "rating": "3.1",
+          "reviews": "200+",
+          "category": "North Indian",
+          "food_category": [
+            {
+              "id": 1,
+              "name": "Indian"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Bite Me Sandwiches",
+          "promotion": "Promoted",
+          "price": "229$",
+          "favourite": true,
+          "state": "NEW",
+          "rating": "3.1",
+          "reviews": "200+",
+          "category": "North Indian",
+          "food_category": [
+            {
+              "id": 1,
+              "name": "Indian"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "promotion": "Promoted",
+          "name": "Famous Dave's Bar-B",
+          "favourite": true,
+          "price": "329$",
+          "state": "NEW",
+          "rating": "3.1",
+          "reviews": "200+",
+          "category": "North Indian",
+          "food_category": [
+            {
+              "id": 1,
+              "name": "Indian"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "favourite": true,
+          "promotion": "Promoted",
+          "name": "Bite Me Sandwiches",
+          "price": "429$",
+          "state": "NEW",
+          "rating": "3.1",
+          "reviews": "200+",
+          "category": "Hamburgers",
+          "food_category": [
+            {
+              "id": 1,
+              "name": "Indian"
+            }
+          ]
+        }
+      ],
+      "quick-bites": [
+        {
+          "id": 1,
+          "name": "Chicken Tikka Sub",
+          "price": "$314 - 12",
+          "famous": "",
+          "size": "21cm"
+        },
+        {
+          "id": 2,
+          "name": "Cheese corn Roll",
+          "famous": "BESTSELLER",
+          "price": "$514",
+          "size": ""
+        },
+        {
+          "id": 3,
+          "name": "Cheese Spinach corn Roll",
+          "famous": "Pure Veg",
+          "price": "$214",
+          "size": ""
+        }
+      ],
+      "starters": [
+        {
+          "id": 1,
+          "name": "Veg Spring Roll",
+          "price": "$314 - 12",
+          "famous": "",
+          "size": "21cm"
+        },
+        {
+          "id": 2,
+          "name": "Stuffed Mushroom",
+          "famous": "BESTSELLER",
+          "price": "$314",
+          "size": ""
+        },
+        {
+          "id": 3,
+          "name": "Honey Chilli Potato",
+          "famous": "Pure Veg",
+          "price": "$31",
+          "size": ""
+        }
+      ],
+      "soups": [
+        {
+          "id": 1,
+          "name": "Tomato Dhania Shorba",
+          "price": "$314 - 12",
+          "size": "30cm"
+        },
+        {
+          "id": 2,
+          "name": "Veg Manchow Soup",
+          "price": "$500",
+          "size": ""
+        },
+        {
+          "id": 3,
+          "name": "Lemon Coriander Soup",
+          "price": "$600",
+          "size": ""
+        },
+        {
+          "id": 4,
+          "name": "Tomato Dhania Shorba",
+          "price": "$700",
+          "size": ""
+        },
+        {
+          "id": 5,
+          "name": "Veg Manchow Soup",
+          "price": "$800",
+          "size": ""
+        },
+
+        {
+          "id": 6,
+          "name": "Lemon Coriander Soup",
+          "price": "$100",
+          "size": ""
         }
       ]
     }
