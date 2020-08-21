@@ -84,163 +84,161 @@
     }
   ],
 
-  "offers-filter": [
-    {
-      "total-restaurants": "344",
-      "location": [
-        {
-          "id": 1,
-          "name": "Ludhiana Junction",
-          "count": "22"
-        },
-        {
-          "id": 2,
-          "name": "Modal Town",
-          "count": "50"
-        },
-        {
-          "id": 3,
-          "name": "Civil Lines",
-          "count": "70"
-        },
-        {
-          "id": 4,
-          "name": "Dugri",
-          "count": "246"
-        },
-        {
-          "id": 5,
-          "name": "PAU",
-          "count": "56"
-        },
-        {
-          "id": 6,
-          "name": "Bahawal",
-          "count": "126"
-        }
-      ],
+  "offers-filter": {
+    "total-restaurants": "344",
+    "location": [
+      {
+        "id": 1,
+        "name": "Ludhiana Junction",
+        "count": "22"
+      },
+      {
+        "id": 2,
+        "name": "Modal Town",
+        "count": "50"
+      },
+      {
+        "id": 3,
+        "name": "Civil Lines",
+        "count": "70"
+      },
+      {
+        "id": 4,
+        "name": "Dugri",
+        "count": "246"
+      },
+      {
+        "id": 5,
+        "name": "PAU",
+        "count": "56"
+      },
+      {
+        "id": 6,
+        "name": "Bahawal",
+        "count": "126"
+      }
+    ],
 
-      "cusines": [
-        {
-          "id": 1,
-          "name": "American",
-          "count": "156"
-        },
-        {
-          "id": 2,
-          "name": "Indian",
-          "count": "456"
-        },
-        {
-          "id": 3,
-          "name": "Pizza",
-          "count": "120"
-        },
-        {
-          "id": 4,
-          "name": "Chicken",
-          "count": "32"
-        },
+    "cusines": [
+      {
+        "id": 1,
+        "name": "American",
+        "count": "156"
+      },
+      {
+        "id": 2,
+        "name": "Indian",
+        "count": "456"
+      },
+      {
+        "id": 3,
+        "name": "Pizza",
+        "count": "120"
+      },
+      {
+        "id": 4,
+        "name": "Chicken",
+        "count": "32"
+      },
 
-        {
-          "id": 5,
-          "name": "Healthy",
-          "count": "130"
-        },
-        {
-          "id": 6,
-          "name": "Vegetarian",
-          "count": "120"
-        },
-        {
-          "id": 7,
-          "name": "Chinese",
-          "count": "111"
-        },
-        {
-          "id": 8,
-          "name": "Hamburgers",
-          "count": "95"
-        },
-        {
-          "id": 9,
-          "name": "Dessert",
-          "count": "78"
-        }
-      ],
-      "feature": [
-        {
-          "id": 1,
-          "type": "Free Delivery",
-          "count": "111"
-        },
-        {
-          "id": 2,
-          "type": "Coupons",
-          "count": "120"
-        },
-        {
-          "id": 3,
-          "type": "Open Now [1:32am]",
-          "count": "156"
-        }
-      ],
-      "delivery-time": [
-        {
-          "id": 1,
-          "duration": "Any Time"
-        },
-        {
-          "id": 2,
-          "duration": "25 min"
-        },
-        {
-          "id": 3,
-          "duration": "35 min"
-        },
-        {
-          "id": 4,
-          "duration": "40 min"
-        },
-        {
-          "id": 5,
-          "duration": "50 min"
-        }
-      ],
-      "Category": [
-        {
-          "id": 1,
-          "name": "Delivery",
-          "count": "20"
-        },
-        {
-          "id": 2,
-          "name": "Dine-out",
-          "count": 30
-        },
-        {
-          "id": 3,
-          "name": "Cafes",
-          "count": 50
-        }
-      ],
+      {
+        "id": 5,
+        "name": "Healthy",
+        "count": "130"
+      },
+      {
+        "id": 6,
+        "name": "Vegetarian",
+        "count": "120"
+      },
+      {
+        "id": 7,
+        "name": "Chinese",
+        "count": "111"
+      },
+      {
+        "id": 8,
+        "name": "Hamburgers",
+        "count": "95"
+      },
+      {
+        "id": 9,
+        "name": "Dessert",
+        "count": "78"
+      }
+    ],
+    "feature": [
+      {
+        "id": 1,
+        "type": "Free Delivery",
+        "count": "111"
+      },
+      {
+        "id": 2,
+        "type": "Coupons",
+        "count": "120"
+      },
+      {
+        "id": 3,
+        "type": "Open Now [1:32am]",
+        "count": "156"
+      }
+    ],
+    "delivery_time": [
+      {
+        "id": 1,
+        "duration": "Any Time"
+      },
+      {
+        "id": 2,
+        "duration": "25 min"
+      },
+      {
+        "id": 3,
+        "duration": "35 min"
+      },
+      {
+        "id": 4,
+        "duration": "40 min"
+      },
+      {
+        "id": 5,
+        "duration": "50 min"
+      }
+    ],
+    "Category": [
+      {
+        "id": 1,
+        "name": "Delivery",
+        "count": "20"
+      },
+      {
+        "id": 2,
+        "name": "Dine-out",
+        "count": 30
+      },
+      {
+        "id": 3,
+        "name": "Cafes",
+        "count": 50
+      }
+    ],
 
-      "partners": [
-        {
-          "id": 1,
-          "name": "Gold Partner"
-        },
-        {
-          "id": 2,
-          "name": "Order Food Online"
-        },
-        {
-          "id": 3,
-          "name": "Osahan Eat"
-        }
-      ]
-    }
-  ],
+    "partners": [
+      {
+        "id": 1,
+        "name": "Gold Partner"
+      },
+      {
+        "id": 2,
+        "name": "Order Food Online"
+      },
+      {
+        "id": 3,
+        "name": "Osahan Eat"
+      }
+    ]
+  },
 
   "popularDishes": [
     {
