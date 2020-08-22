@@ -55,7 +55,6 @@
       "value": "26"
     }
   ],
-
   "top-restaurants-trends": [
     {
       "id": 1,
@@ -83,7 +82,6 @@
       "restaurant": "Tulsimia Restaurant"
     }
   ],
-
   "offers-filter": {
     "total-restaurants": "344",
     "location": [
@@ -118,7 +116,6 @@
         "count": "126"
       }
     ],
-
     "cusines": [
       {
         "id": 1,
@@ -140,7 +137,6 @@
         "name": "Chicken",
         "count": "32"
       },
-
       {
         "id": 5,
         "name": "Healthy",
@@ -223,7 +219,6 @@
         "count": 50
       }
     ],
-
     "partners": [
       {
         "id": 1,
@@ -239,7 +234,6 @@
       }
     ]
   },
-
   "popularDishes": [
     {
       "id": 1,
@@ -805,7 +799,6 @@
           "name": "Pure veg"
         }
       ],
-
       "popularDishes": [
         {
           "id": 1,
@@ -854,7 +847,7 @@
         {
           "id": 1,
           "name": "Bite Me Clubs",
-          "price": "229$",
+          "price": "229",
           "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
           "promotion": "Promoted",
           "favourite": true,
@@ -874,7 +867,7 @@
           "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
           "name": "Bite Me Sandwiches",
           "promotion": "Promoted",
-          "price": "229$",
+          "price": "229",
           "favourite": true,
           "state": "NEW",
           "rating": "2.1",
@@ -893,7 +886,7 @@
           "promotion": "Promoted",
           "name": "Famous Dave's Bar-B",
           "favourite": true,
-          "price": "329$",
+          "price": "329",
           "state": "NEW",
           "rating": "4.1",
           "reviews": "200+",
@@ -911,7 +904,7 @@
           "favourite": true,
           "promotion": "Promoted",
           "name": "Bite Me Sandwiches",
-          "price": "429$",
+          "price": "429",
           "state": "NEW",
           "rating": "3.1",
           "reviews": "200+",
@@ -926,89 +919,88 @@
       ],
       "quick_bites": [
         {
-          "id": 1,
+          "id": 5,
           "name": "Chicken Tikka Sub",
-          "price": "$314 - 12",
+          "price": "314",
           "famous": "",
           "size": "21cm"
         },
         {
-          "id": 2,
+          "id": 6,
           "name": "Cheese corn Roll",
           "famous": "BESTSELLER",
-          "price": "$514",
+          "price": "514",
           "size": ""
         },
         {
-          "id": 3,
+          "id": 7,
           "name": "Cheese Spinach corn Roll",
           "famous": "Pure Veg",
-          "price": "$214",
+          "price": "214",
           "size": ""
         }
       ],
       "starters": [
         {
-          "id": 1,
+          "id": 8,
           "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
           "name": "Veg Spring Roll",
-          "price": "$314 - 12",
+          "price": "314",
           "famous": "",
           "size": "21cm"
         },
         {
-          "id": 2,
+          "id": 9,
           "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
           "name": "Stuffed Mushroom",
           "famous": "BESTSELLER",
-          "price": "$314",
+          "price": "314",
           "size": ""
         },
         {
-          "id": 3,
+          "id": 10,
           "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
           "name": "Honey Chilli Potato",
           "famous": "Pure Veg",
-          "price": "$31",
+          "price": "31",
           "size": ""
         }
       ],
       "soups": [
         {
-          "id": 1,
+          "id": 11,
           "name": "Tomato Dhania Shorba",
-          "price": "$314 - 12",
+          "price": "314",
           "size": "30cm"
         },
         {
-          "id": 2,
+          "id": 12,
           "name": "Veg Manchow Soup",
-          "price": "$500",
+          "price": "500",
           "size": ""
         },
         {
-          "id": 3,
+          "id": 13,
           "name": "Lemon Coriander Soup",
-          "price": "$600",
+          "price": "600",
           "size": ""
         },
         {
-          "id": 4,
+          "id": 14,
           "name": "Tomato Dhania Shorba",
-          "price": "$700",
+          "price": "700",
           "size": ""
         },
         {
-          "id": 5,
+          "id": 15,
           "name": "Veg Manchow Soup",
-          "price": "$800",
+          "price": "800",
           "size": ""
         },
-
         {
-          "id": 6,
+          "id": 16,
           "name": "Lemon Coriander Soup",
-          "price": "$100",
+          "price": "100",
           "size": ""
         }
       ]
@@ -1021,6 +1013,7 @@
       "postId": 1
     }
   ],
+  "shopingCart": [],
   "profile": {
     "name": "typicode"
   }
