@@ -4,7 +4,7 @@
   "description": "Simple json-base database to deploy to Heroku",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node server.js json-server-auth api/db.json --routes api/routes.json --no-cors=false"",
     "dev": "nodemon server.js"
   },
   "keywords": [
