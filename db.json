@@ -87,79 +87,79 @@
     "location": [
       {
         "id": 1,
-        "name": "Ludhiana Junction",
+        "name": "Surulere",
         "count": "22"
       },
       {
         "id": 2,
-        "name": "Modal Town",
+        "name": "Lagos Island",
         "count": "50"
       },
       {
         "id": 3,
-        "name": "Civil Lines",
+        "name": "Ojota",
         "count": "70"
       },
       {
         "id": 4,
-        "name": "Dugri",
+        "name": "Victoria Island",
         "count": "246"
       },
       {
         "id": 5,
-        "name": "PAU",
+        "name": "Lekki",
         "count": "56"
       },
       {
         "id": 6,
-        "name": "Bahawal",
+        "name": "Gbagada Estate",
         "count": "126"
       }
     ],
     "cusines": [
       {
         "id": 1,
-        "name": "American",
+        "name": "cuisines Efo Riro",
         "count": "156"
       },
       {
         "id": 2,
-        "name": "Indian",
+        "name": "Chicken Peppersoup",
         "count": "456"
       },
       {
         "id": 3,
-        "name": "Pizza",
+        "name": "Fish Peppersoup",
         "count": "120"
       },
       {
         "id": 4,
-        "name": "Chicken",
+        "name": "Ewedu",
         "count": "32"
       },
       {
         "id": 5,
-        "name": "Healthy",
+        "name": "Oha Soup Jollof Rice",
         "count": "130"
       },
       {
         "id": 6,
-        "name": "Vegetarian",
+        "name": "Coconut Rice",
         "count": "120"
       },
       {
         "id": 7,
-        "name": "Chinese",
+        "name": "Fried Rice",
         "count": "111"
       },
       {
         "id": 8,
-        "name": "Hamburgers",
+        "name": "Ewa Aganyin",
         "count": "95"
       },
       {
         "id": 9,
-        "name": "Dessert",
+        "name": "Amala MoiMoi",
         "count": "78"
       }
     ],
