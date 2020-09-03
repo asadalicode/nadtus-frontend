@@ -115,11 +115,10 @@
         "name": "Gbagada Estate",
         "count": "126"
       }
-    ],
-    "cusines": [
+    ": [
       {
         "id": 1,
-        "name": "cuisines Efo Riro",
+        "name": "Efo Riro",
         "count": "156"
       },
       {
@@ -139,7 +138,7 @@
       },
       {
         "id": 5,
-        "name": "Oha Soup Jollof Rice",
+        "name": "Oha Soup",
         "count": "130"
       },
       {
@@ -159,7 +158,7 @@
       },
       {
         "id": 9,
-        "name": "Amala MoiMoi",
+        "name": "MoiMoi",
         "count": "78"
       }
     ],
