@@ -920,21 +920,21 @@
       "quick_bites": [
         {
           "id": 5,
-          "name": "Chicken Tikka Sub",
+          "name": "Barbecued Goat Meats (Asun)",
           "price": "314",
           "famous": "",
           "size": "21cm"
         },
         {
           "id": 6,
-          "name": "Cheese corn Roll",
+          "name": "Peppered Gizzards",
           "famous": "BESTSELLER",
           "price": "514",
           "size": ""
         },
         {
           "id": 7,
-          "name": "Cheese Spinach corn Roll",
+          "name": "Battered Fish",
           "famous": "Pure Veg",
           "price": "214",
           "size": ""
@@ -944,7 +944,7 @@
         {
           "id": 8,
           "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Veg Spring Roll",
+          "name": "Bread samosa",
           "price": "314",
           "famous": "",
           "size": "21cm"
@@ -952,7 +952,7 @@
         {
           "id": 9,
           "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
-          "name": "Stuffed Mushroom",
+          "name": "Moimoi Eleja",
           "famous": "BESTSELLER",
           "price": "314",
           "size": ""
@@ -960,7 +960,7 @@
         {
           "id": 10,
           "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Honey Chilli Potato",
+          "name": "Baked",
           "famous": "Pure Veg",
           "price": "31",
           "size": ""
@@ -969,7 +969,7 @@
       "soups": [
         {
           "id": 11,
-          "name": "Tomato Dhania Shorba",
+          "name": "Ewedu Soup",
           "price": "314",
           "size": "30cm"
         },
@@ -981,25 +981,25 @@
         },
         {
           "id": 13,
-          "name": "Lemon Coriander Soup",
+          "name": "Edikaikong",
           "price": "600",
           "size": ""
         },
         {
           "id": 14,
-          "name": "Tomato Dhania Shorba",
+          "name": "Gbegiri",
           "price": "700",
           "size": ""
         },
         {
           "id": 15,
-          "name": "Veg Manchow Soup",
+          "name": "Efo-Riro",
           "price": "800",
           "size": ""
         },
         {
           "id": 16,
-          "name": "Lemon Coriander Soup",
+          "name": "Banga Soup",
           "price": "100",
           "size": ""
         }
