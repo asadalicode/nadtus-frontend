@@ -1014,7 +1014,16 @@
     }
   ],
   "shopingCart": [],
-  "UserDeliveryAddress": [],
+  "UserDeliveryAddress": [
+  {
+    "deliveryArea": "Apapa",
+    "completeAddress": "50 Ayinke Street Shomolu 76 Ben Street, Lekki Phase 1, 34 Benue Street, Apapa",
+    "instructions": "Near Ben Street",
+    "nickname": "home",
+    "userId": 5,
+    "id": 1
+  }
+  ],
   "profile": {
     "name": "typicode"
   }
