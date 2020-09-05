@@ -183,23 +183,23 @@
     "delivery_time": [
       {
         "id": 1,
-        "duration": "Any Time"
+        "duration": "1 hour"
       },
       {
         "id": 2,
-        "duration": "25 min"
+        "duration": "2 hours"
       },
       {
         "id": 3,
-        "duration": "35 min"
+        "duration": "1 hour"
       },
       {
         "id": 4,
-        "duration": "40 min"
+        "duration": "2 hours"
       },
       {
         "id": 5,
-        "duration": "50 min"
+        "duration": "2 hours"
       }
     ],
     "Category": [
