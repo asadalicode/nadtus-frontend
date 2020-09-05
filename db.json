@@ -361,7 +361,7 @@
       "delivery": "free Delivery",
       "open": true,
       "comments": 12262,
-      "rating": "3.1"
+      "rating": "2.1"
     },
     {
       "id": 2,
@@ -393,7 +393,7 @@
       "delivery": "free Delivery",
       "open": true,
       "comments": 8154,
-      "rating": "3.1"
+      "rating": "3.5"
     },
     {
       "id": 3,
@@ -425,7 +425,7 @@
       "delivery": "free Delivery",
       "open": true,
       "comments": 89984,
-      "rating": "3.1"
+      "rating": "4.5"
     },
     {
       "id": 4,
@@ -457,7 +457,7 @@
       "delivery": "free Delivery",
       "open": true,
       "comments": 346,
-      "rating": "3.1"
+      "rating": "3.3"
     },
     {
       "id": 5,
@@ -489,7 +489,7 @@
       "delivery": "free Delivery",
       "open": true,
       "comments": 24345,
-      "rating": "3.1"
+      "rating": "3.7"
     },
     {
       "id": 6,
@@ -521,7 +521,7 @@
       "delivery": "free Delivery",
       "open": true,
       "comments": 16264,
-      "rating": "3.1"
+      "rating": "2.8"
     },
     {
       "id": 7,
@@ -553,7 +553,7 @@
       "delivery": "free Delivery",
       "open": true,
       "comments": 65170,
-      "rating": "3.1"
+      "rating": "4.8"
     },
     {
       "id": 8,
@@ -585,7 +585,7 @@
       "delivery": "free Delivery",
       "open": true,
       "comments": 49571,
-      "rating": "3.1"
+      "rating": "5"
     },
     {
       "id": 9,
@@ -617,7 +617,7 @@
       "delivery": "free Delivery",
       "open": true,
       "comments": 30746,
-      "rating": "3.1"
+      "rating": "2.7"
     },
     {
       "id": 10,
@@ -649,7 +649,7 @@
       "delivery": "free Delivery",
       "open": true,
       "comments": 64270,
-      "rating": "3.1"
+      "rating": "4.2"
     }
   ],
   "favorites": [
@@ -685,7 +685,7 @@
           "delivery": "free Delivery",
           "open": true,
           "comments": 64270,
-          "rating": "3.1"
+          "rating": "2.2"
         }
       ]
     },
@@ -906,7 +906,7 @@
           "name": "Bite Me Sandwiches",
           "price": "429",
           "state": "NEW",
-          "rating": "3.1",
+          "rating": "4.1",
           "reviews": "200+",
           "category": "Hamburgers",
           "food_category": [
