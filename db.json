@@ -854,7 +854,7 @@
           "price": "229",
           "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
           "promotion": "Promoted",
-          "favourite": true,
+          "favourite": false,
           "state": "NEW",
           "rating": "4.1",
           "reviews": 200,
@@ -905,7 +905,7 @@
         {
           "id": 4,
           "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "favourite": true,
+          "favourite": false,
           "promotion": "Promoted",
           "name": "Bite Me Sandwiches",
           "price": "429",
