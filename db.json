@@ -853,7 +853,7 @@
           "favourite": true,
           "state": "NEW",
           "rating": "4.1",
-          "reviews": "200+",
+          "reviews": 200,
           "category": "North Indian",
           "food_category": [
             {
@@ -871,7 +871,7 @@
           "favourite": true,
           "state": "NEW",
           "rating": "2.1",
-          "reviews": "200+",
+          "reviews": 200,
           "category": "North Indian",
           "food_category": [
             {
@@ -889,7 +889,7 @@
           "price": "329",
           "state": "NEW",
           "rating": "4.1",
-          "reviews": "200+",
+          "reviews": 200,
           "category": "North Indian",
           "food_category": [
             {
@@ -907,7 +907,7 @@
           "price": "429",
           "state": "NEW",
           "rating": "4.1",
-          "reviews": "200+",
+          "reviews": 200,
           "category": "Hamburgers",
           "food_category": [
             {
