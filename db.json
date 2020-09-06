@@ -732,6 +732,7 @@
       "name": "Spice Hut Indian Restaurant",
       "location": "2036 2ND AVE, NEW YORK, NY 10029",
       "status": "OPEN",
+      "is_favourite":false,
       "brand": "North Indian",
       "delivery_time": "25-35 min",
       "ratings": "3.4",
