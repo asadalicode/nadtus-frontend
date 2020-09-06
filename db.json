@@ -935,7 +935,7 @@
         {
           "id": 7,
           "name": "Battered Fish",
-          "famous": "Pure Veg",
+          "famous": "BESTSELLER",
           "price": "214",
           "size": ""
         }
@@ -960,8 +960,8 @@
         {
           "id": 10,
           "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Baked",
-          "famous": "Pure Veg",
+          "name": "Owho Soup",
+          "famous": "",
           "price": "31",
           "size": ""
         }
@@ -975,7 +975,7 @@
         },
         {
           "id": 12,
-          "name": "Veg Manchow Soup",
+          "name": "Point & Kill",
           "price": "500",
           "size": ""
         },
