@@ -4,6 +4,7 @@ const server = jsonServer.create();
 const server_1 = jsonServer.create();
 // const router = jsonServer.router("db.json");
 const path = require("path");
+var express = require('express')
 const router = jsonServer.router(path.join(__dirname, "db.json"));
 server_1.use('/static', express.static(path.join(__dirname, 'public')))
 
