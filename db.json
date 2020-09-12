@@ -340,21 +340,21 @@
   "vendorsList": [
     {
       "id": 1,
-      "img": "https://www.foodiesfeed.com/wp-content/uploads/2019/06/top-view-for-box-of-2-burgers-home-made-684x1024.jpg",
-      "brand": "World Famous",
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/igbo_abacha.jpg",
+      "brand": "Mama Cass",
       "offer": "250$ for two",
       "reviews":290,
       "food_category": [
         {
           "id": 1,
-          "name": "North"
+          "name": "Ikeja"
         },
         {
-          "id": 1,
-          "name": "Hamburgers"
+          "id": 2,
+          "name": "Igbo Abacha"
         },
         {
-          "id": 1,
+          "id": 3,
           "name": "Pure veg"
         }
       ],
@@ -374,21 +374,21 @@
     {
       "id": 2,
       "reviews":390,
-      "img": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
-      "brand": "World Famous",
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/coconut_ rice.jpg",
+      "brand": "Salados",
       "offer": "200$ for three",
       "food_category": [
         {
-          "id": 1,
-          "name": "North"
+          "id": 4,
+          "name": "Akoka"
         },
         {
-          "id": 1,
-          "name": "Hamburgers"
+          "id": 5,
+          "name": "Coconut Rice"
         },
         {
-          "id": 1,
-          "name": "Pure veg"
+          "id": 6,
+          "name": "Continental"
         }
       ],
       "name": "Hailey Heathcote",
@@ -407,22 +407,22 @@
     {
       "id": 3,
       "reviews":190,
-      "brand": "The osahan restaurant",
+      "brand": "Ibile",
       "offer": "300$ for three",
-      "img": "https://www.foodiesfeed.com/wp-content/uploads/2015/03/basic-italian-pizza-margherita-300x200.jpg",
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/ofada_rice.jpg",
       "name": "Brad Mueller",
       "food_category": [
         {
-          "id": 1,
-          "name": "North"
+          "id": 7,
+          "name": "Ilupeju"
         },
         {
-          "id": 1,
-          "name": "Hamburgers"
+          "id": 8,
+          "name": "Ofada Rice"
         },
         {
-          "id": 1,
-          "name": "Pure veg"
+          "id": 9,
+          "name": "Traditional"
         }
       ],
       "avatar": "http://lorempixel.com/640/480/food",
@@ -440,22 +440,22 @@
     {
       "id": 4,
       "reviews":390,
-      "img": "https://www.foodiesfeed.com/wp-content/uploads/2015/09/summer-juicy-beef-burger.jpg",
-      "brand": "Jack Fry's",
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/amala.png",
+      "brand": "Amala Shitta",
       "offer": "200$ for three",
       "name": "Fanny Bosco",
       "food_category": [
         {
-          "id": 1,
-          "name": "North"
+          "id": 10,
+          "name": "Surulere"
         },
         {
-          "id": 1,
-          "name": "Hamburgers"
+          "id": 11,
+          "name": "Amala"
         },
         {
-          "id": 1,
-          "name": "Pure veg"
+          "id": 12,
+          "name": "Traditional"
         }
       ],
       "avatar": "http://lorempixel.com/640/480/food",
@@ -473,22 +473,22 @@
     {
       "id": 5,
       "reviews":230,
-      "img": "https://www.foodiesfeed.com/wp-content/uploads/2019/06/dinning-burger-and-grilled-pork-tenderloin-in-restaurant-413x275.jpg",
-      "brand": "World Famous",
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/fried_plantain.jpg",
+      "brand": "Iya Moriah",
       "offer": "200$ for three",
       "name": "Layne Kreiger",
       "food_category": [
         {
-          "id": 1,
-          "name": "North"
+          "id": 13,
+          "name": "Akoka"
         },
         {
-          "id": 1,
-          "name": "Hamburgers"
+          "id": 14,
+          "name": "Local"
         },
         {
-          "id": 1,
-          "name": "Pure veg"
+          "id": 15,
+          "name": "Fried Plantain"
         }
       ],
       "avatar": "http://lorempixel.com/640/480/food",
