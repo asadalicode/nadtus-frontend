@@ -2,59 +2,59 @@
   "foodCategories": [
     {
       "id": "1",
-      "src": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
-      "title": "American",
+      "src": "https://nadtus-fake-db.herokuapp.com/assets/images/ofada_stew.png",
+      "title": "Ofada Stew",
       "value": "156"
     },
     
     {
       "id": "2",
-      "src": "https://www.foodiesfeed.com/wp-content/uploads/2019/06/dinning-burger-and-grilled-pork-tenderloin-in-restaurant-413x275.jpg",
-      "title": "Pizza",
+      "src": "https://nadtus-fake-db.herokuapp.com/assets/images/fried_plantain.jpg",
+      "title": "Fried Plantain",
       "value": "120"
     },
     {
       "id": "3",
-      "src": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
-      "title": "Healthy",
+      "src": "https://nadtus-fake-db.herokuapp.com/assets/images/beans.png",
+      "title": "Beans",
       "value": "130"
     },
     {
       "id": "4",
-      "src": "http://lorempixel.com/640/480/food",
-      "title": "Vegetarian",
+      "src": "https://nadtus-fake-db.herokuapp.com/assets/images/white_rice.png",
+      "title": "White Rice",
       "value": "120"
     },
     {
       "id": "5",
-      "src": "https://www.foodiesfeed.com/wp-content/uploads/2019/06/dinning-burger-and-grilled-pork-tenderloin-in-restaurant-413x275.jpg",
-      "title": "Chinese",
+      "src": "https://nadtus-fake-db.herokuapp.com/assets/images/chinese_rice.png",
+      "title": "Chinese Rice",
       "value": "111"
     },
     
     
     {
       "id": "6",
-      "src": "http://lorempixel.com/640/480/food",
-      "title": "Hamburgers",
+      "src": "https://nadtus-fake-db.herokuapp.com/assets/images/",
+      "title": "Gbegiri",
       "value": "958"
     },
     {
       "id": "7",
-      "src": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
-      "title": "Dessert",
+      "src": "https://nadtus-fake-db.herokuapp.com/assets/images/pepper_soup.png",
+      "title": "Pepper Soup",
       "value": "99"
     },
     {
       "id": "8",
-      "src": "https://www.foodiesfeed.com/wp-content/uploads/2019/06/dinning-burger-and-grilled-pork-tenderloin-in-restaurant-413x275.jpg",
-      "title": "Chicken",
+      "src": "https://nadtus-fake-db.herokuapp.com/assets/images/fried_chicken.png",
+      "title": "Fried Chicken",
       "value": "46"
     },
     {
       "id": "9",
-      "src": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/eating-cheesecake-with-berries-300x450.jpg",
-      "title": "Indian",
+      "src": "https://nadtus-fake-db.herokuapp.com/assets/images/moi_moi.png",
+      "title": "Moi Moi",
       "value": "26"
     }
   ],
