@@ -1,5 +1,6 @@
 {
   "foodCategories": [
+
     {
       "id": "1",
       "src": "https://nadtus-fake-db.herokuapp.com/assets/images/ofada_stew.png",
