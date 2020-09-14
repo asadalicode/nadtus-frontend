@@ -1030,5 +1030,17 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+   "searchLocations":[
+      { "id": 1 , "text": "Agege"},
+      { "id": 2 , "text": "Akoka"},
+      { "id": 3 , "text": "Ojuelegba"},
+      { "id": 4 , "text": "Ketu"},
+      { "id": 5 , "text": "Obalende"},
+      { "id": 6 , "text": "Gbagada"},
+      { "id": 7 , "text": "Mushin"},
+      { "id": 8 , "text": "Ojota"},
+      { "id": 9 , "text": "Lagos Island"},
+      { "id": 10 , "text": "Victoria Island"}
+  ]
 }
