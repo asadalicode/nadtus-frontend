@@ -1,13 +1,11 @@
 {
   "foodCategories": [
-
     {
       "id": "1",
       "src": "https://nadtus-fake-db.herokuapp.com/assets/images/ofada_stew.png",
       "title": "Ofada Stew",
       "value": "156"
     },
-    
     {
       "id": "2",
       "src": "https://nadtus-fake-db.herokuapp.com/assets/images/fried_plantain.jpg",
@@ -32,8 +30,6 @@
       "title": "Chinese Rice",
       "value": "111"
     },
-    
-    
     {
       "id": "6",
       "src": "https://nadtus-fake-db.herokuapp.com/assets/images/gbegiri.png",
@@ -344,7 +340,7 @@
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/jollof_rice.jpg",
       "brand": "Terra Kulture",
       "offer": "₦250 for two",
-      "reviews":290,
+      "reviews": 290,
       "food_category": [
         {
           "id": 1,
@@ -374,7 +370,7 @@
     },
     {
       "id": 2,
-      "reviews":390,
+      "reviews": 390,
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/Isi_ewu.jpg",
       "brand": "Delta Pot",
       "offer": "₦200 for three",
@@ -407,7 +403,7 @@
     },
     {
       "id": 3,
-      "reviews":190,
+      "reviews": 190,
       "brand": "Saudi",
       "offer": "₦300 for three",
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/eba.jpg",
@@ -440,7 +436,7 @@
     },
     {
       "id": 4,
-      "reviews":390,
+      "reviews": 390,
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/Pounded_yam.png",
       "brand": "Labule",
       "offer": "₦200 for four",
@@ -473,7 +469,7 @@
     },
     {
       "id": 5,
-      "reviews":230,
+      "reviews": 230,
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/chicken.jpeg",
       "brand": "Alalo Foods",
       "offer": "₦210 for three",
@@ -504,9 +500,9 @@
       "comments": 24345,
       "rating": "3.7"
     },
-{
+    {
       "id": 6,
-      "reviews":235,
+      "reviews": 235,
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/ofen_sala.jpg",
       "brand": "OfadaBoy’s Soup Lounge",
       "offer": "₦150 for two",
@@ -537,9 +533,9 @@
       "comments": 24345,
       "rating": "3.7"
     },
-{
+    {
       "id": 7,
-      "reviews":230,
+      "reviews": 230,
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/fried_plantain.jpg",
       "brand": "Iya Moriah",
       "offer": "₦190 for three",
@@ -570,9 +566,9 @@
       "comments": 24345,
       "rating": "3.8"
     },
-{
+    {
       "id": 8,
-      "reviews":230,
+      "reviews": 230,
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/boiled_yam.jpg",
       "brand": "The Place",
       "offer": "₦260 for three",
@@ -603,9 +599,9 @@
       "comments": 24345,
       "rating": "3.3"
     },
-{
+    {
       "id": 9,
-      "reviews":230,
+      "reviews": 230,
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/grilled_fish.jpg",
       "brand": "Chicken Republic",
       "offer": "₦250 for three",
@@ -636,8 +632,6 @@
       "comments": 2345,
       "rating": "3.9"
     }
-
-    
   ],
   "favorites": [
     {
@@ -661,7 +655,7 @@
               "name": "Pure veg"
             }
           ],
-           "reviews":246,
+          "reviews": 246,
           "name": "Dr. Aurelie Hickle",
           "avatar": "http://lorempixel.com/640/480/food",
           "city": "Johnstonland",
@@ -716,12 +710,12 @@
   ],
   "retaurant-details": [
     {
-      "id":1,
+      "id": 1,
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/coconut_rice.jpg",
       "name": "Sherlaton Restaurant",
       "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
       "status": "OPEN",
-      "is_favourite":false,
+      "is_favourite": false,
       "brand": "North Indian",
       "delivery_time": "25-35 min",
       "ratings": "3.4",
@@ -852,7 +846,6 @@
             }
           ]
         },
-        
         {
           "id": 2,
           "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
@@ -1006,329 +999,35 @@
   ],
   "shopingCart": [],
   "UserDeliveryAddress": [
-  {
-    "deliveryArea": "Apapa",
-    "completeAddress": "50 Ayinke Street Shomolu 76 Ben Street, Lekki Phase 1, 34 Benue Street, Apapa",
-    "instructions": "Near Ben Street",
-    "nickname": "home",
-    "userId": 5,
-    "id": 1
-  }
-  ],
-   "Reviews": [
-      {
-    "comment": "Very Good!",
-    "rate": 3,
-    "date": "2020-09-05T12:41:58.632Z",
-    "name": "asad ali",
-    "id": 653,
-    "thumbs_up": 555,
-    "thumbs_down": 41
-  },
-  {
-    "comment": "Tremendous!",
-    "rate": 5,
-    "date": "2020-09-05T12:50:40.679Z",
-    "name": "asad ali",
-    "id": 308,
-    "thumbs_up": 679,
-    "thumbs_down": 569
-  }
-     ],
-  "profile": {
-    "name": "typicode"
-  }
-}
-3,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 4,
-          "name": "No Alcohol Available"
-        },
-        {
-          "id": 5,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 6,
-          "name": "Breakfast"
-        }
-      ],
-      "gallery": [
-        {
-          "id": 1,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/1.png"
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/2.png"
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/3.png"
-        }
-      ],
-      "food_category": [
-        {
-          "id": 1,
-          "name": "North"
-        },
-        {
-          "id": 1,
-          "name": "Hamburgers"
-        },
-        {
-          "id": 1,
-          "name": "Pure veg"
-        }
-      ],
-      "popularDishes": [
-        {
-          "id": 1,
-          "name": "Sandwiches",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
-          "count": "25"
-        },
-        {
-          "id": 2,
-          "name": "Soups",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png",
-          "count": "30"
-        },
-        {
-          "id": 3,
-          "name": "Pizzas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png",
-          "count": "45"
-        },
-        {
-          "id": 4,
-          "name": "Pastas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png",
-          "count": "10"
-        },
-        {
-          "id": 5,
-          "name": "Chines",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png",
-          "count": "12"
-        },
-        {
-          "id": 6,
-          "name": "Burgers",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
-          "count": "15"
-        },
-        {
-          "id": 7,
-          "name": "Steaks",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "count": "20"
-        }
-      ],
-      "best_sellers": [
-        {
-          "id": 1,
-          "name": "Bite Me Clubs",
-          "price": "229",
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "promotion": "Promoted",
-          "favourite": false,
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
-          "name": "Bite Me Sandwiches",
-          "promotion": "Promoted",
-          "price": "229",
-          "favourite": true,
-          "state": "NEW",
-          "rating": "2.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "promotion": "Promoted",
-          "name": "Famous Dave's Bar-B",
-          "favourite": true,
-          "price": "329",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "favourite": false,
-          "promotion": "Promoted",
-          "name": "Bite Me Sandwiches",
-          "price": "429",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "Hamburgers",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        }
-      ],
-      "quick_bites": [
-        {
-          "id": 5,
-          "name": "Barbecued Goat Meats (Asun)",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 6,
-          "name": "Peppered Gizzards",
-          "famous": "BESTSELLER",
-          "price": "514",
-          "size": ""
-        },
-        {
-          "id": 7,
-          "name": "Battered Fish",
-          "famous": "BESTSELLER",
-          "price": "214",
-          "size": ""
-        }
-      ],
-      "starters": [
-        {
-          "id": 8,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Bread samosa",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 9,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
-          "name": "Moimoi Eleja",
-          "famous": "BESTSELLER",
-          "price": "314",
-          "size": ""
-        },
-        {
-          "id": 10,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Owho Soup",
-          "famous": "",
-          "price": "31",
-          "size": ""
-        }
-      ],
-      "soups": [
-        {
-          "id": 11,
-          "name": "Ewedu Soup",
-          "price": "314",
-          "size": "30cm"
-        },
-        {
-          "id": 12,
-          "name": "Point & Kill",
-          "price": "500",
-          "size": ""
-        },
-        {
-          "id": 13,
-          "name": "Edikaikong",
-          "price": "600",
-          "size": ""
-        },
-        {
-          "id": 14,
-          "name": "Gbegiri",
-          "price": "700",
-          "size": ""
-        },
-        {
-          "id": 15,
-          "name": "Efo-Riro",
-          "price": "800",
-          "size": ""
-        },
-        {
-          "id": 16,
-          "name": "Banga Soup",
-          "price": "100",
-          "size": ""
-        }
-      ]
-    }
-  ],
-  "comments": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "deliveryArea": "Apapa",
+      "completeAddress": "50 Ayinke Street Shomolu 76 Ben Street, Lekki Phase 1, 34 Benue Street, Apapa",
+      "instructions": "Near Ben Street",
+      "nickname": "home",
+      "userId": 5,
+      "id": 1
     }
   ],
-  "shopingCart": [],
-  "UserDeliveryAddress": [
-  {
-    "deliveryArea": "Apapa",
-    "completeAddress": "50 Ayinke Street Shomolu 76 Ben Street, Lekki Phase 1, 34 Benue Street, Apapa",
-    "instructions": "Near Ben Street",
-    "nickname": "home",
-    "userId": 5,
-    "id": 1
-  }
+  "Reviews": [
+    {
+      "comment": "Very Good!",
+      "rate": 3,
+      "date": "2020-09-05T12:41:58.632Z",
+      "name": "asad ali",
+      "id": 653,
+      "thumbs_up": 555,
+      "thumbs_down": 41
+    },
+    {
+      "comment": "Tremendous!",
+      "rate": 5,
+      "date": "2020-09-05T12:50:40.679Z",
+      "name": "asad ali",
+      "id": 308,
+      "thumbs_up": 679,
+      "thumbs_down": 569
+    }
   ],
-   "Reviews": [
-      {
-    "comment": "Very Good!",
-    "rate": 3,
-    "date": "2020-09-05T12:41:58.632Z",
-    "name": "asad ali",
-    "id": 653,
-    "thumbs_up": 555,
-    "thumbs_down": 41
-  },
-  {
-    "comment": "Tremendous!",
-    "rate": 5,
-    "date": "2020-09-05T12:50:40.679Z",
-    "name": "asad ali",
-    "id": 308,
-    "thumbs_up": 679,
-    "thumbs_down": 569
-  }
-     ],
   "profile": {
     "name": "typicode"
   }
