@@ -371,7 +371,7 @@
     {
       "id": 2,
       "reviews": 390,
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/Isi_ewu.jpg",
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/isi_ewu.jpg",
       "brand": "Delta Pot",
       "offer": "₦200 for three",
       "food_category": [
@@ -437,7 +437,7 @@
     {
       "id": 4,
       "reviews": 390,
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/Pounded_yam.png",
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/pounded_yam.png",
       "brand": "Labule",
       "offer": "₦200 for four",
       "name": "Fanny Bosco",
