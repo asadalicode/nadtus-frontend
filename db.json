@@ -340,22 +340,22 @@
   "vendorsList": [
     {
       "id": 1,
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/igbo_abacha.jpg",
-      "brand": "Mama Cass",
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/jollof_rice.jpg",
+      "brand": "Terra Kulture",
       "offer": "250$ for two",
       "reviews":290,
       "food_category": [
         {
           "id": 1,
-          "name": "Ikeja"
+          "name": "Victoria Island "
         },
         {
           "id": 2,
-          "name": "Igbo Abacha"
+          "name": "Continental"
         },
         {
           "id": 3,
-          "name": "Pure veg"
+          "name": "Jollof Rice"
         }
       ],
       "name": "Scottie Krajcik",
@@ -374,21 +374,21 @@
     {
       "id": 2,
       "reviews":390,
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/coconut_rice.jpg",
-      "brand": "Salados",
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/Isi_ewu.jpg",
+      "brand": "Delta Pot",
       "offer": "200$ for three",
       "food_category": [
         {
           "id": 4,
-          "name": "Akoka"
+          "name": "Lekki"
         },
         {
           "id": 5,
-          "name": "Coconut Rice"
+          "name": "Traditional"
         },
         {
           "id": 6,
-          "name": "Continental"
+          "name": "Isi Ewu"
         }
       ],
       "name": "Hailey Heathcote",
@@ -407,22 +407,22 @@
     {
       "id": 3,
       "reviews":190,
-      "brand": "Ibile",
+      "brand": "Saudi",
       "offer": "300$ for three",
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/ofada_rice.jpg",
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/eba.jpg",
       "name": "Brad Mueller",
       "food_category": [
         {
           "id": 7,
-          "name": "Ilupeju"
+          "name": "Gbagada"
         },
         {
           "id": 8,
-          "name": "Ofada Rice"
+          "name": "Local"
         },
         {
           "id": 9,
-          "name": "Traditional"
+          "name": "Eba"
         }
       ],
       "avatar": "http://lorempixel.com/640/480/food",
@@ -440,22 +440,22 @@
     {
       "id": 4,
       "reviews":390,
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/amala.png",
-      "brand": "Amala Shitta",
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/Pounded_yam.png",
+      "brand": "Labule",
       "offer": "200$ for three",
       "name": "Fanny Bosco",
       "food_category": [
         {
           "id": 10,
-          "name": "Surulere"
+          "name": "Ogudu"
         },
         {
           "id": 11,
-          "name": "Amala"
+          "name": "Local"
         },
         {
           "id": 12,
-          "name": "Traditional"
+          "name": "Pounded Yam"
         }
       ],
       "avatar": "http://lorempixel.com/640/480/food",
@@ -472,6 +472,72 @@
     },
     {
       "id": 5,
+      "reviews":230,
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/chicken.jpeg",
+      "brand": "Alalo Foods",
+      "offer": "200$ for three",
+      "name": "Layne Kreiger",
+      "food_category": [
+        {
+          "id": 13,
+          "name": "GRA Ikeja"
+        },
+        {
+          "id": 14,
+          "name": "Continental"
+        },
+        {
+          "id": 15,
+          "name": "Chicken"
+        }
+      ],
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "Schmidtfurt",
+      "location": "Weimann Street",
+      "address": "69658 Buck Burgs",
+      "delivery_time": "25-35 min",
+      "favouite": true,
+      "category": "bar",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 24345,
+      "rating": "3.7"
+    },
+{
+      "id": 6,
+      "reviews":235,
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/ofen_sala.jpg",
+      "brand": "OfadaBoy’s Soup Lounge",
+      "offer": "200$ for three",
+      "name": "Layne Kreiger",
+      "food_category": [
+        {
+          "id": 13,
+          "name": "Surulere"
+        },
+        {
+          "id": 14,
+          "name": "Traditional"
+        },
+        {
+          "id": 15,
+          "name": "Ofensala"
+        }
+      ],
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "Schmidtfurt",
+      "location": "Weimann Street",
+      "address": "69658 Buck Burgs",
+      "delivery_time": "25-35 min",
+      "favouite": true,
+      "category": "bar",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 24345,
+      "rating": "3.7"
+    },
+{
+      "id": 7,
       "reviews":230,
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/fried_plantain.jpg",
       "brand": "Iya Moriah",
@@ -501,8 +567,75 @@
       "delivery": "free Delivery",
       "open": true,
       "comments": 24345,
-      "rating": "3.7"
+      "rating": "3.8"
+    },
+{
+      "id": 8,
+      "reviews":230,
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/boiled_yam.jpg",
+      "brand": "The Place",
+      "offer": "200$ for three",
+      "name": "Layne Kreiger",
+      "food_category": [
+        {
+          "id": 13,
+          "name": "Maryland"
+        },
+        {
+          "id": 14,
+          "name": "Fast Food"
+        },
+        {
+          "id": 15,
+          "name": "Yam"
+        }
+      ],
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "Schmidtfurt",
+      "location": "Weimann Street",
+      "address": "69658 Buck Burgs",
+      "delivery_time": "25-35 min",
+      "favouite": true,
+      "category": "bar",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 24345,
+      "rating": "3.3"
+    },
+{
+      "id": 9,
+      "reviews":230,
+      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/grilled_fish.jpg",
+      "brand": "Chicken Republic",
+      "offer": "₦250 for three",
+      "name": "Layne Kreiger",
+      "food_category": [
+        {
+          "id": 13,
+          "name": "Ilupeju"
+        },
+        {
+          "id": 14,
+          "name": "Fast Food"
+        },
+        {
+          "id": 15,
+          "name": "Fish"
+        }
+      ],
+      "avatar": "http://lorempixel.com/640/480/food",
+      "city": "Schmidtfurt",
+      "location": "Weimann Street",
+      "address": "69658 Buck Burgs",
+      "delivery_time": "25-35 min",
+      "favouite": true,
+      "category": "bar",
+      "delivery": "free Delivery",
+      "open": true,
+      "comments": 2345,
+      "rating": "3.9"
     }
+
     
   ],
   "favorites": [
