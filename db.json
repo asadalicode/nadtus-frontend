@@ -3282,6 +3282,24 @@
         { "id": 8 , "text": "Ojota"},
         { "id": 9 , "text": "Lagos Island"},
         { "id": 10 , "text": "Victoria Island"}
-    ]
+    ],
+   "product_offers":[
+   {
+      "id":1,
+      "img":"https://askbootstrap.com/preview/osahan-eat/img/pro1.jpg"
+   },
+   {
+      "id":2,
+      "img":"https://askbootstrap.com/preview/osahan-eat/img/pro2.jpg"
+   },
+   {
+      "id":3,
+      "img":"https://askbootstrap.com/preview/osahan-eat/img/pro3.jpg"
+   },
+   {
+      "id":4,
+      "img":"https://askbootstrap.com/preview/osahan-eat/img/pro4.jpg"
+   }
+]
   }
   
