@@ -1,6 +1,4 @@
 {
-  "Orders_history":[],
-  
   "foodCategories": [
     {
       "id": "1",
@@ -341,6 +339,20 @@
       "id": 1,
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/jollof_rice.jpg",
       "brand": "Terra Kulture",
+      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "status": "OPEN",
+      "is_favourite": true,
+      "delivery_time": "25-35 min",
+      "ratings": "3.4",
+      "ratings-count": "23",
+      "address": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "phone_primary": " +234 805 634 8013",
+      "phone_secondary": "+234 805 634 8013",
+      "email_primary": "iamosahan@gmail.com,         ",
+      "email_secondary": "osahaneat@gmail.com",
+      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
+      "open_status": "OPEN NOW",
+      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
       "offer": "₦250 for two",
       "reviews": 290,
       "food_category": [
@@ -360,10 +372,6 @@
       "name": "Scottie Krajcik",
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Isacchester",
-      "location": "Leda Point",
-      "address": "90607 Cormier Spurs",
-      "delivery_time": "20-35 min",
-      "favouite": true,
       "category": "car",
       "delivery": "free Delivery",
       "open": true,
@@ -621,6 +629,19 @@
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/isi_ewu.jpg",
       "brand": "Delta Pot",
       "offer": "₦200 for three",
+      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "status": "OPEN",
+      "is_favourite": true,
+      "ratings": "3.4",
+      "ratings-count": "23",
+      "address": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "phone_primary": " +234 805 634 8013",
+      "phone_secondary": "+234 805 634 8013",
+      "email_primary": "iamosahan@gmail.com,         ",
+      "email_secondary": "osahaneat@gmail.com",
+      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
+      "open_status": "OPEN NOW",
+      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
       "food_category": [
         {
           "id": 4,
@@ -638,8 +659,6 @@
       "name": "Hailey Heathcote",
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "New Hymanhaven",
-      "location": "Myriam Crescent",
-      "address": "315 Waters Meadows",
       "delivery_time": "20-35 min",
       "favouite": false,
       "category": "bar",
@@ -900,6 +919,18 @@
       "brand": "Labule",
       "offer": "₦200 for four",
       "name": "Fanny Bosco",
+      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "status": "OPEN",
+      "is_favourite": false,
+      "ratings": "3.4",
+      "ratings-count": "23",
+      "phone_primary": " +234 805 634 8013",
+      "phone_secondary": "+234 805 634 8013",
+      "email_primary": "iamosahan@gmail.com,         ",
+      "email_secondary": "osahaneat@gmail.com",
+      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
+      "open_status": "OPEN NOW",
+      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
       "food_category": [
         {
           "id": 10,
@@ -916,7 +947,6 @@
       ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Moenville",
-      "location": "Sauer Tunnel",
       "address": "2761 Letha triangles",
       "delivery_time": "15-20 min",
       "favouite": false,
@@ -1178,6 +1208,18 @@
       "brand": "Alalo Foods",
       "offer": "₦210 for three",
       "name": "Layne Kreiger",
+      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "status": "OPEN",
+      "is_favourite": false,
+      "ratings": "3.4",
+      "ratings-count": "23",
+      "phone_primary": " +234 805 634 8013",
+      "phone_secondary": "+234 805 634 8013",
+      "email_primary": "iamosahan@gmail.com,         ",
+      "email_secondary": "osahaneat@gmail.com",
+      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
+      "open_status": "OPEN NOW",
+      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
       "food_category": [
         {
           "id": 13,
@@ -1194,7 +1236,6 @@
       ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Schmidtfurt",
-      "location": "Weimann Street",
       "address": "69658 Buck Burgs",
       "delivery_time": "25-35 min",
       "favouite": true,
@@ -1456,6 +1497,18 @@
       "brand": "OfadaBoy’s Soup Lounge",
       "offer": "₦150 for two",
       "name": "Layne Kreiger",
+      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "status": "OPEN",
+      "is_favourite": false,
+      "ratings": "3.4",
+      "ratings-count": "23",
+      "phone_primary": " +234 805 634 8013",
+      "phone_secondary": "+234 805 634 8013",
+      "email_primary": "iamosahan@gmail.com,         ",
+      "email_secondary": "osahaneat@gmail.com",
+      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
+      "open_status": "OPEN NOW",
+      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
       "food_category": [
         {
           "id": 13,
@@ -1472,7 +1525,6 @@
       ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Schmidtfurt",
-      "location": "Weimann Street",
       "address": "69658 Buck Burgs",
       "delivery_time": "25-35 min",
       "favouite": true,
@@ -1734,6 +1786,18 @@
       "brand": "Iya Moriah",
       "offer": "₦190 for three",
       "name": "Layne Kreiger",
+      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "status": "OPEN",
+      "is_favourite": false,
+      "ratings": "3.4",
+      "ratings-count": "23",
+      "phone_primary": " +234 805 634 8013",
+      "phone_secondary": "+234 805 634 8013",
+      "email_primary": "iamosahan@gmail.com,         ",
+      "email_secondary": "osahaneat@gmail.com",
+      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
+      "open_status": "OPEN NOW",
+      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
       "food_category": [
         {
           "id": 13,
@@ -1750,7 +1814,6 @@
       ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Schmidtfurt",
-      "location": "Weimann Street",
       "address": "69658 Buck Burgs",
       "delivery_time": "25-35 min",
       "favouite": true,
@@ -2012,6 +2075,18 @@
       "brand": "The Place",
       "offer": "₦260 for three",
       "name": "Layne Kreiger",
+      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "status": "OPEN",
+      "is_favourite": false,
+      "ratings": "3.4",
+      "ratings-count": "23",
+      "phone_primary": " +234 805 634 8013",
+      "phone_secondary": "+234 805 634 8013",
+      "email_primary": "iamosahan@gmail.com,         ",
+      "email_secondary": "osahaneat@gmail.com",
+      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
+      "open_status": "OPEN NOW",
+      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
       "food_category": [
         {
           "id": 13,
@@ -2028,7 +2103,6 @@
       ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Schmidtfurt",
-      "location": "Weimann Street",
       "address": "69658 Buck Burgs",
       "delivery_time": "25-35 min",
       "favouite": true,
@@ -2290,6 +2364,18 @@
       "brand": "Chicken Republic",
       "offer": "₦250 for three",
       "name": "Layne Kreiger",
+      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "status": "OPEN",
+      "is_favourite": false,
+      "ratings": "3.4",
+      "ratings-count": "23",
+      "phone_primary": " +234 805 634 8013",
+      "phone_secondary": "+234 805 634 8013",
+      "email_primary": "iamosahan@gmail.com,         ",
+      "email_secondary": "osahaneat@gmail.com",
+      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
+      "open_status": "OPEN NOW",
+      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
       "food_category": [
         {
           "id": 13,
@@ -2306,7 +2392,6 @@
       ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "Schmidtfurt",
-      "location": "Weimann Street",
       "address": "69658 Buck Burgs",
       "delivery_time": "25-35 min",
       "favouite": true,
@@ -2563,293 +2648,23 @@
     },
     {
       "id": 3,
-      "reviews": 197,
+      "reviews": 198,
       "brand": "Saudi",
       "offer": "₦300 for three",
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/eba.jpg",
       "name": "Brad Mueller",
-      "food_category": [
-        {
-          "id": 7,
-          "name": "Gbagada"
-        },
-        {
-          "id": 8,
-          "name": "Local"
-        },
-        {
-          "id": 9,
-          "name": "Eba"
-        }
-      ],
-      "avatar": "http://lorempixel.com/640/480/food",
-      "city": "North Quentinfurt",
-      "location": "Purdy Park",
-      "address": "6725 Champlin Lakes",
-      "delivery_time": "20-35 min",
-      "favouite": true,
-      "category": "bar",
-      "delivery": "free Delivery",
-      "open": true,
-      "comments": 89984,
-      "rating": "4.5",
-      "services": [
-        {
-          "id": 1,
-          "name": "Breakfast"
-        },
-        {
-          "id": 2,
-          "name": "Vegetarian Only"
-        },
-        {
-          "id": 3,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 4,
-          "name": "No Alcohol Available"
-        },
-        {
-          "id": 5,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 6,
-          "name": "Breakfast"
-        }
-      ],
-      "gallery": [
-        {
-          "id": 1,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/1.png"
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/2.png"
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/3.png"
-        }
-      ],
-      "popularDishes": [
-        {
-          "id": 1,
-          "name": "Sandwiches",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
-          "count": "25"
-        },
-        {
-          "id": 2,
-          "name": "Soups",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png",
-          "count": "30"
-        },
-        {
-          "id": 3,
-          "name": "Pizzas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png",
-          "count": "45"
-        },
-        {
-          "id": 4,
-          "name": "Pastas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png",
-          "count": "10"
-        },
-        {
-          "id": 5,
-          "name": "Chines",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png",
-          "count": "12"
-        },
-        {
-          "id": 6,
-          "name": "Burgers",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
-          "count": "15"
-        },
-        {
-          "id": 7,
-          "name": "Steaks",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "count": "20"
-        }
-      ],
-      "best_sellers": [
-        {
-          "id": 1,
-          "name": "Bite Me Clubs",
-          "price": "229",
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "promotion": "Promoted",
-          "favourite": false,
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
-          "name": "Bite Me Sandwiches",
-          "promotion": "Promoted",
-          "price": "229",
-          "favourite": true,
-          "state": "NEW",
-          "rating": "2.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "promotion": "Promoted",
-          "name": "Famous Dave's Bar-B",
-          "favourite": true,
-          "price": "329",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "favourite": false,
-          "promotion": "Promoted",
-          "name": "Bite Me Sandwiches",
-          "price": "429",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "Hamburgers",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        }
-      ],
-      "quick_bites": [
-        {
-          "id": 5,
-          "name": "Barbecued Goat Meats (Asun)",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 6,
-          "name": "Peppered Gizzards",
-          "famous": "BESTSELLER",
-          "price": "514",
-          "size": ""
-        },
-        {
-          "id": 7,
-          "name": "Battered Fish",
-          "famous": "BESTSELLER",
-          "price": "214",
-          "size": ""
-        }
-      ],
-      "starters": [
-        {
-          "id": 8,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Bread samosa",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 9,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
-          "name": "Moimoi Eleja",
-          "famous": "BESTSELLER",
-          "price": "314",
-          "size": ""
-        },
-        {
-          "id": 10,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Owho Soup",
-          "famous": "",
-          "price": "31",
-          "size": ""
-        }
-      ],
-      "soups": [
-        {
-          "id": 11,
-          "name": "Ewedu Soup",
-          "price": "314",
-          "size": "30cm"
-        },
-        {
-          "id": 12,
-          "name": "Point & Kill",
-          "price": "500",
-          "size": ""
-        },
-        {
-          "id": 13,
-          "name": "Edikaikong",
-          "price": "600",
-          "size": ""
-        },
-        {
-          "id": 14,
-          "name": "Gbegiri",
-          "price": "700",
-          "size": ""
-        },
-        {
-          "id": 15,
-          "name": "Efo-Riro",
-          "price": "800",
-          "size": ""
-        },
-        {
-          "id": 16,
-          "name": "Banga Soup",
-          "price": "100",
-          "size": ""
-        }
-      ],
+      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "status": "OPEN",
       "is_favourite": true,
-      "user_id": 5
-    }
-  ],
-  "favorites": [
-    {
-      "id": 3,
-      "reviews": 197,
-      "brand": "Saudi",
-      "offer": "₦300 for three",
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/eba.jpg",
-      "name": "Brad Mueller",
+      "ratings": "3.4",
+      "ratings-count": "23",
+      "phone_primary": " +234 805 634 8013",
+      "phone_secondary": "+234 805 634 8013",
+      "email_primary": "iamosahan@gmail.com,         ",
+      "email_secondary": "osahaneat@gmail.com",
+      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
+      "open_status": "OPEN NOW",
+      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
       "food_category": [
         {
           "id": 7,
@@ -2866,10 +2681,8 @@
       ],
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "North Quentinfurt",
-      "location": "Purdy Park",
       "address": "6725 Champlin Lakes",
       "delivery_time": "20-35 min",
-      "favouite": true,
       "category": "bar",
       "delivery": "free Delivery",
       "open": true,
@@ -2913,2530 +2726,6 @@
         {
           "id": 3,
           "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/3.png"
-        }
-      ],
-      "popularDishes": [
-        {
-          "id": 1,
-          "name": "Sandwiches",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
-          "count": "25"
-        },
-        {
-          "id": 2,
-          "name": "Soups",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png",
-          "count": "30"
-        },
-        {
-          "id": 3,
-          "name": "Pizzas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png",
-          "count": "45"
-        },
-        {
-          "id": 4,
-          "name": "Pastas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png",
-          "count": "10"
-        },
-        {
-          "id": 5,
-          "name": "Chines",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png",
-          "count": "12"
-        },
-        {
-          "id": 6,
-          "name": "Burgers",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
-          "count": "15"
-        },
-        {
-          "id": 7,
-          "name": "Steaks",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "count": "20"
-        }
-      ],
-      "best_sellers": [
-        {
-          "id": 1,
-          "name": "Bite Me Clubs",
-          "price": "229",
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "promotion": "Promoted",
-          "favourite": false,
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
-          "name": "Bite Me Sandwiches",
-          "promotion": "Promoted",
-          "price": "229",
-          "favourite": true,
-          "state": "NEW",
-          "rating": "2.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "promotion": "Promoted",
-          "name": "Famous Dave's Bar-B",
-          "favourite": true,
-          "price": "329",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "favourite": false,
-          "promotion": "Promoted",
-          "name": "Bite Me Sandwiches",
-          "price": "429",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "Hamburgers",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        }
-      ],
-      "quick_bites": [
-        {
-          "id": 5,
-          "name": "Barbecued Goat Meats (Asun)",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 6,
-          "name": "Peppered Gizzards",
-          "famous": "BESTSELLER",
-          "price": "514",
-          "size": ""
-        },
-        {
-          "id": 7,
-          "name": "Battered Fish",
-          "famous": "BESTSELLER",
-          "price": "214",
-          "size": ""
-        }
-      ],
-      "starters": [
-        {
-          "id": 8,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Bread samosa",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 9,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
-          "name": "Moimoi Eleja",
-          "famous": "BESTSELLER",
-          "price": "314",
-          "size": ""
-        },
-        {
-          "id": 10,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Owho Soup",
-          "famous": "",
-          "price": "31",
-          "size": ""
-        }
-      ],
-      "soups": [
-        {
-          "id": 11,
-          "name": "Ewedu Soup",
-          "price": "314",
-          "size": "30cm"
-        },
-        {
-          "id": 12,
-          "name": "Point & Kill",
-          "price": "500",
-          "size": ""
-        },
-        {
-          "id": 13,
-          "name": "Edikaikong",
-          "price": "600",
-          "size": ""
-        },
-        {
-          "id": 14,
-          "name": "Gbegiri",
-          "price": "700",
-          "size": ""
-        },
-        {
-          "id": 15,
-          "name": "Efo-Riro",
-          "price": "800",
-          "size": ""
-        },
-        {
-          "id": 16,
-          "name": "Banga Soup",
-          "price": "100",
-          "size": ""
-        }
-      ],
-      "is_favourite": true,
-      "user_id": 5
-    }
-  ],
-  "retaurant-details": [
-    {
-      "id": 1,
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/jollof_rice.jpg",
-      "name": "Terra Kulture",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "status": "OPEN",
-      "is_favourite": false,
-      "brand": "North Indian",
-      "delivery_time": "25-35 min",
-      "ratings": "3.4",
-      "ratings-count": "23",
-      "reviews": "87",
-      "address": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "phone_primary": " +234 805 634 8013",
-      "phone_secondary": "+234 805 634 8013",
-      "email_primary": "iamosahan@gmail.com,         ",
-      "email_secondary": "osahaneat@gmail.com",
-      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
-      "open_status": "OPEN NOW",
-      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
-      "services": [
-        {
-          "id": 1,
-          "name": "Breakfast"
-        },
-        {
-          "id": 2,
-          "name": "Vegetarian Only"
-        },
-        {
-          "id": 3,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 4,
-          "name": "No Alcohol Available"
-        },
-        {
-          "id": 5,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 6,
-          "name": "Breakfast"
-        }
-      ],
-      "gallery": [
-        {
-          "id": 1,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/1.png"
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/2.png"
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/3.png"
-        }
-      ],
-      "food_category": [
-        {
-          "id": 1,
-          "name": "North"
-        },
-        {
-          "id": 1,
-          "name": "Hamburgers"
-        },
-        {
-          "id": 1,
-          "name": "Pure veg"
-        }
-      ],
-      "popularDishes": [
-        {
-          "id": 1,
-          "name": "Sandwiches",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
-          "count": "25"
-        },
-        {
-          "id": 2,
-          "name": "Soups",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png",
-          "count": "30"
-        },
-        {
-          "id": 3,
-          "name": "Pizzas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png",
-          "count": "45"
-        },
-        {
-          "id": 4,
-          "name": "Pastas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png",
-          "count": "10"
-        },
-        {
-          "id": 5,
-          "name": "Chines",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png",
-          "count": "12"
-        },
-        {
-          "id": 6,
-          "name": "Burgers",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
-          "count": "15"
-        },
-        {
-          "id": 7,
-          "name": "Steaks",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "count": "20"
-        }
-      ],
-      "best_sellers": [
-        {
-          "id": 1,
-          "name": "Bite Me Clubs",
-          "price": "229",
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "promotion": "Promoted",
-          "favourite": false,
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
-          "name": "Bite Me Sandwiches",
-          "promotion": "Promoted",
-          "price": "229",
-          "favourite": true,
-          "state": "NEW",
-          "rating": "2.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "promotion": "Promoted",
-          "name": "Famous Dave's Bar-B",
-          "favourite": true,
-          "price": "329",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "favourite": false,
-          "promotion": "Promoted",
-          "name": "Bite Me Sandwiches",
-          "price": "429",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "Hamburgers",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        }
-      ],
-      "quick_bites": [
-        {
-          "id": 5,
-          "name": "Barbecued Goat Meats (Asun)",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 6,
-          "name": "Peppered Gizzards",
-          "famous": "BESTSELLER",
-          "price": "514",
-          "size": ""
-        },
-        {
-          "id": 7,
-          "name": "Battered Fish",
-          "famous": "BESTSELLER",
-          "price": "214",
-          "size": ""
-        }
-      ],
-      "starters": [
-        {
-          "id": 8,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Bread samosa",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 9,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
-          "name": "Moimoi Eleja",
-          "famous": "BESTSELLER",
-          "price": "314",
-          "size": ""
-        },
-        {
-          "id": 10,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Owho Soup",
-          "famous": "",
-          "price": "31",
-          "size": ""
-        }
-      ],
-      "soups": [
-        {
-          "id": 11,
-          "name": "Ewedu Soup",
-          "price": "314",
-          "size": "30cm"
-        },
-        {
-          "id": 12,
-          "name": "Point & Kill",
-          "price": "500",
-          "size": ""
-        },
-        {
-          "id": 13,
-          "name": "Edikaikong",
-          "price": "600",
-          "size": ""
-        },
-        {
-          "id": 14,
-          "name": "Gbegiri",
-          "price": "700",
-          "size": ""
-        },
-        {
-          "id": 15,
-          "name": "Efo-Riro",
-          "price": "800",
-          "size": ""
-        },
-        {
-          "id": 16,
-          "name": "Banga Soup",
-          "price": "100",
-          "size": ""
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/isi_ewu.jpg",
-      "name": "Delta Pot",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "status": "OPEN",
-      "is_favourite": false,
-      "brand": "North Indian",
-      "delivery_time": "25-35 min",
-      "ratings": "3.4",
-      "ratings-count": "23",
-      "reviews": "390",
-      "address": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "phone_primary": " +234 805 634 8013",
-      "phone_secondary": "+234 805 634 8013",
-      "email_primary": "iamosahan@gmail.com,         ",
-      "email_secondary": "osahaneat@gmail.com",
-      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
-      "open_status": "OPEN NOW",
-      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
-      "services": [
-        {
-          "id": 1,
-          "name": "Breakfast"
-        },
-        {
-          "id": 2,
-          "name": "Vegetarian Only"
-        },
-        {
-          "id": 3,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 4,
-          "name": "No Alcohol Available"
-        },
-        {
-          "id": 5,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 6,
-          "name": "Breakfast"
-        }
-      ],
-      "gallery": [
-        {
-          "id": 1,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/1.png"
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/2.png"
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/3.png"
-        }
-      ],
-      "food_category": [
-        {
-          "id": 1,
-          "name": "North"
-        },
-        {
-          "id": 1,
-          "name": "Hamburgers"
-        },
-        {
-          "id": 1,
-          "name": "Pure veg"
-        }
-      ],
-      "popularDishes": [
-        {
-          "id": 1,
-          "name": "Sandwiches",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
-          "count": "25"
-        },
-        {
-          "id": 2,
-          "name": "Soups",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png",
-          "count": "30"
-        },
-        {
-          "id": 3,
-          "name": "Pizzas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png",
-          "count": "45"
-        },
-        {
-          "id": 4,
-          "name": "Pastas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png",
-          "count": "10"
-        },
-        {
-          "id": 5,
-          "name": "Chines",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png",
-          "count": "12"
-        },
-        {
-          "id": 6,
-          "name": "Burgers",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
-          "count": "15"
-        },
-        {
-          "id": 7,
-          "name": "Steaks",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "count": "20"
-        }
-      ],
-      "best_sellers": [
-        {
-          "id": 1,
-          "name": "Bite Me Clubs",
-          "price": "229",
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "promotion": "Promoted",
-          "favourite": false,
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
-          "name": "Bite Me Sandwiches",
-          "promotion": "Promoted",
-          "price": "229",
-          "favourite": true,
-          "state": "NEW",
-          "rating": "2.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "promotion": "Promoted",
-          "name": "Famous Dave's Bar-B",
-          "favourite": true,
-          "price": "329",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "favourite": false,
-          "promotion": "Promoted",
-          "name": "Bite Me Sandwiches",
-          "price": "429",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "Hamburgers",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        }
-      ],
-      "quick_bites": [
-        {
-          "id": 5,
-          "name": "Barbecued Goat Meats (Asun)",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 6,
-          "name": "Peppered Gizzards",
-          "famous": "BESTSELLER",
-          "price": "514",
-          "size": ""
-        },
-        {
-          "id": 7,
-          "name": "Battered Fish",
-          "famous": "BESTSELLER",
-          "price": "214",
-          "size": ""
-        }
-      ],
-      "starters": [
-        {
-          "id": 8,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Bread samosa",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 9,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
-          "name": "Moimoi Eleja",
-          "famous": "BESTSELLER",
-          "price": "314",
-          "size": ""
-        },
-        {
-          "id": 10,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Owho Soup",
-          "famous": "",
-          "price": "31",
-          "size": ""
-        }
-      ],
-      "soups": [
-        {
-          "id": 11,
-          "name": "Ewedu Soup",
-          "price": "314",
-          "size": "30cm"
-        },
-        {
-          "id": 12,
-          "name": "Point & Kill",
-          "price": "500",
-          "size": ""
-        },
-        {
-          "id": 13,
-          "name": "Edikaikong",
-          "price": "600",
-          "size": ""
-        },
-        {
-          "id": 14,
-          "name": "Gbegiri",
-          "price": "700",
-          "size": ""
-        },
-        {
-          "id": 15,
-          "name": "Efo-Riro",
-          "price": "800",
-          "size": ""
-        },
-        {
-          "id": 16,
-          "name": "Banga Soup",
-          "price": "100",
-          "size": ""
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "reviews": 196,
-      "brand": "Saudi",
-      "offer": "₦300 for three",
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/eba.jpg",
-      "name": "Brad Mueller",
-      "food_category": [
-        {
-          "id": 7,
-          "name": "Gbagada"
-        },
-        {
-          "id": 8,
-          "name": "Local"
-        },
-        {
-          "id": 9,
-          "name": "Eba"
-        }
-      ],
-      "avatar": "http://lorempixel.com/640/480/food",
-      "city": "North Quentinfurt",
-      "location": "Purdy Park",
-      "address": "6725 Champlin Lakes",
-      "delivery_time": "20-35 min",
-      "favouite": true,
-      "category": "bar",
-      "delivery": "free Delivery",
-      "open": true,
-      "comments": 89984,
-      "rating": "4.5",
-      "services": [
-        {
-          "id": 1,
-          "name": "Breakfast"
-        },
-        {
-          "id": 2,
-          "name": "Vegetarian Only"
-        },
-        {
-          "id": 3,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 4,
-          "name": "No Alcohol Available"
-        },
-        {
-          "id": 5,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 6,
-          "name": "Breakfast"
-        }
-      ],
-      "gallery": [
-        {
-          "id": 1,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/1.png"
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/2.png"
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/3.png"
-        }
-      ],
-      "popularDishes": [
-        {
-          "id": 1,
-          "name": "Sandwiches",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
-          "count": "25"
-        },
-        {
-          "id": 2,
-          "name": "Soups",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png",
-          "count": "30"
-        },
-        {
-          "id": 3,
-          "name": "Pizzas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png",
-          "count": "45"
-        },
-        {
-          "id": 4,
-          "name": "Pastas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png",
-          "count": "10"
-        },
-        {
-          "id": 5,
-          "name": "Chines",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png",
-          "count": "12"
-        },
-        {
-          "id": 6,
-          "name": "Burgers",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
-          "count": "15"
-        },
-        {
-          "id": 7,
-          "name": "Steaks",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "count": "20"
-        }
-      ],
-      "best_sellers": [
-        {
-          "id": 1,
-          "name": "Bite Me Clubs",
-          "price": "229",
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "promotion": "Promoted",
-          "favourite": false,
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
-          "name": "Bite Me Sandwiches",
-          "promotion": "Promoted",
-          "price": "229",
-          "favourite": true,
-          "state": "NEW",
-          "rating": "2.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "promotion": "Promoted",
-          "name": "Famous Dave's Bar-B",
-          "favourite": true,
-          "price": "329",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "favourite": false,
-          "promotion": "Promoted",
-          "name": "Bite Me Sandwiches",
-          "price": "429",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "Hamburgers",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        }
-      ],
-      "quick_bites": [
-        {
-          "id": 5,
-          "name": "Barbecued Goat Meats (Asun)",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 6,
-          "name": "Peppered Gizzards",
-          "famous": "BESTSELLER",
-          "price": "514",
-          "size": ""
-        },
-        {
-          "id": 7,
-          "name": "Battered Fish",
-          "famous": "BESTSELLER",
-          "price": "214",
-          "size": ""
-        }
-      ],
-      "starters": [
-        {
-          "id": 8,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Bread samosa",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 9,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
-          "name": "Moimoi Eleja",
-          "famous": "BESTSELLER",
-          "price": "314",
-          "size": ""
-        },
-        {
-          "id": 10,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Owho Soup",
-          "famous": "",
-          "price": "31",
-          "size": ""
-        }
-      ],
-      "soups": [
-        {
-          "id": 11,
-          "name": "Ewedu Soup",
-          "price": "314",
-          "size": "30cm"
-        },
-        {
-          "id": 12,
-          "name": "Point & Kill",
-          "price": "500",
-          "size": ""
-        },
-        {
-          "id": 13,
-          "name": "Edikaikong",
-          "price": "600",
-          "size": ""
-        },
-        {
-          "id": 14,
-          "name": "Gbegiri",
-          "price": "700",
-          "size": ""
-        },
-        {
-          "id": 15,
-          "name": "Efo-Riro",
-          "price": "800",
-          "size": ""
-        },
-        {
-          "id": 16,
-          "name": "Banga Soup",
-          "price": "100",
-          "size": ""
-        }
-      ],
-      "is_favourite": false,
-      "user_id": 5
-    },
-    {
-      "id": 4,
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/pounded_yam.png",
-      "name": "Labule",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "status": "OPEN",
-      "is_favourite": false,
-      "brand": "North Indian",
-      "delivery_time": "25-35 min",
-      "ratings": "3.4",
-      "ratings-count": "23",
-      "reviews": "390",
-      "address": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "phone_primary": " +234 805 634 8013",
-      "phone_secondary": "+234 805 634 8013",
-      "email_primary": "iamosahan@gmail.com,         ",
-      "email_secondary": "osahaneat@gmail.com",
-      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
-      "open_status": "OPEN NOW",
-      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
-      "services": [
-        {
-          "id": 1,
-          "name": "Breakfast"
-        },
-        {
-          "id": 2,
-          "name": "Vegetarian Only"
-        },
-        {
-          "id": 3,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 4,
-          "name": "No Alcohol Available"
-        },
-        {
-          "id": 5,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 6,
-          "name": "Breakfast"
-        }
-      ],
-      "gallery": [
-        {
-          "id": 1,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/1.png"
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/2.png"
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/3.png"
-        }
-      ],
-      "food_category": [
-        {
-          "id": 1,
-          "name": "North"
-        },
-        {
-          "id": 1,
-          "name": "Hamburgers"
-        },
-        {
-          "id": 1,
-          "name": "Pure veg"
-        }
-      ],
-      "popularDishes": [
-        {
-          "id": 1,
-          "name": "Sandwiches",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
-          "count": "25"
-        },
-        {
-          "id": 2,
-          "name": "Soups",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png",
-          "count": "30"
-        },
-        {
-          "id": 3,
-          "name": "Pizzas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png",
-          "count": "45"
-        },
-        {
-          "id": 4,
-          "name": "Pastas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png",
-          "count": "10"
-        },
-        {
-          "id": 5,
-          "name": "Chines",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png",
-          "count": "12"
-        },
-        {
-          "id": 6,
-          "name": "Burgers",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
-          "count": "15"
-        },
-        {
-          "id": 7,
-          "name": "Steaks",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "count": "20"
-        }
-      ],
-      "best_sellers": [
-        {
-          "id": 1,
-          "name": "Bite Me Clubs",
-          "price": "229",
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "promotion": "Promoted",
-          "favourite": false,
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
-          "name": "Bite Me Sandwiches",
-          "promotion": "Promoted",
-          "price": "229",
-          "favourite": true,
-          "state": "NEW",
-          "rating": "2.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "promotion": "Promoted",
-          "name": "Famous Dave's Bar-B",
-          "favourite": true,
-          "price": "329",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "favourite": false,
-          "promotion": "Promoted",
-          "name": "Bite Me Sandwiches",
-          "price": "429",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "Hamburgers",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        }
-      ],
-      "quick_bites": [
-        {
-          "id": 5,
-          "name": "Barbecued Goat Meats (Asun)",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 6,
-          "name": "Peppered Gizzards",
-          "famous": "BESTSELLER",
-          "price": "514",
-          "size": ""
-        },
-        {
-          "id": 7,
-          "name": "Battered Fish",
-          "famous": "BESTSELLER",
-          "price": "214",
-          "size": ""
-        }
-      ],
-      "starters": [
-        {
-          "id": 8,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Bread samosa",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 9,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
-          "name": "Moimoi Eleja",
-          "famous": "BESTSELLER",
-          "price": "314",
-          "size": ""
-        },
-        {
-          "id": 10,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Owho Soup",
-          "famous": "",
-          "price": "31",
-          "size": ""
-        }
-      ],
-      "soups": [
-        {
-          "id": 11,
-          "name": "Ewedu Soup",
-          "price": "314",
-          "size": "30cm"
-        },
-        {
-          "id": 12,
-          "name": "Point & Kill",
-          "price": "500",
-          "size": ""
-        },
-        {
-          "id": 13,
-          "name": "Edikaikong",
-          "price": "600",
-          "size": ""
-        },
-        {
-          "id": 14,
-          "name": "Gbegiri",
-          "price": "700",
-          "size": ""
-        },
-        {
-          "id": 15,
-          "name": "Efo-Riro",
-          "price": "800",
-          "size": ""
-        },
-        {
-          "id": 16,
-          "name": "Banga Soup",
-          "price": "100",
-          "size": ""
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/chicken.jpeg",
-      "name": "Alalo Foods",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "status": "OPEN",
-      "is_favourite": false,
-      "brand": "North Indian",
-      "delivery_time": "25-35 min",
-      "ratings": "3.4",
-      "ratings-count": "23",
-      "reviews": "230",
-      "address": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "phone_primary": " +234 805 634 8013",
-      "phone_secondary": "+234 805 634 8013",
-      "email_primary": "iamosahan@gmail.com,         ",
-      "email_secondary": "osahaneat@gmail.com",
-      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
-      "open_status": "OPEN NOW",
-      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
-      "services": [
-        {
-          "id": 1,
-          "name": "Breakfast"
-        },
-        {
-          "id": 2,
-          "name": "Vegetarian Only"
-        },
-        {
-          "id": 3,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 4,
-          "name": "No Alcohol Available"
-        },
-        {
-          "id": 5,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 6,
-          "name": "Breakfast"
-        }
-      ],
-      "gallery": [
-        {
-          "id": 1,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/1.png"
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/2.png"
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/3.png"
-        }
-      ],
-      "food_category": [
-        {
-          "id": 1,
-          "name": "North"
-        },
-        {
-          "id": 1,
-          "name": "Hamburgers"
-        },
-        {
-          "id": 1,
-          "name": "Pure veg"
-        }
-      ],
-      "popularDishes": [
-        {
-          "id": 1,
-          "name": "Sandwiches",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
-          "count": "25"
-        },
-        {
-          "id": 2,
-          "name": "Soups",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png",
-          "count": "30"
-        },
-        {
-          "id": 3,
-          "name": "Pizzas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png",
-          "count": "45"
-        },
-        {
-          "id": 4,
-          "name": "Pastas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png",
-          "count": "10"
-        },
-        {
-          "id": 5,
-          "name": "Chines",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png",
-          "count": "12"
-        },
-        {
-          "id": 6,
-          "name": "Burgers",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
-          "count": "15"
-        },
-        {
-          "id": 7,
-          "name": "Steaks",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "count": "20"
-        }
-      ],
-      "best_sellers": [
-        {
-          "id": 1,
-          "name": "Bite Me Clubs",
-          "price": "229",
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "promotion": "Promoted",
-          "favourite": false,
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
-          "name": "Bite Me Sandwiches",
-          "promotion": "Promoted",
-          "price": "229",
-          "favourite": true,
-          "state": "NEW",
-          "rating": "2.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "promotion": "Promoted",
-          "name": "Famous Dave's Bar-B",
-          "favourite": true,
-          "price": "329",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "favourite": false,
-          "promotion": "Promoted",
-          "name": "Bite Me Sandwiches",
-          "price": "429",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "Hamburgers",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        }
-      ],
-      "quick_bites": [
-        {
-          "id": 5,
-          "name": "Barbecued Goat Meats (Asun)",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 6,
-          "name": "Peppered Gizzards",
-          "famous": "BESTSELLER",
-          "price": "514",
-          "size": ""
-        },
-        {
-          "id": 7,
-          "name": "Battered Fish",
-          "famous": "BESTSELLER",
-          "price": "214",
-          "size": ""
-        }
-      ],
-      "starters": [
-        {
-          "id": 8,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Bread samosa",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 9,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
-          "name": "Moimoi Eleja",
-          "famous": "BESTSELLER",
-          "price": "314",
-          "size": ""
-        },
-        {
-          "id": 10,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Owho Soup",
-          "famous": "",
-          "price": "31",
-          "size": ""
-        }
-      ],
-      "soups": [
-        {
-          "id": 11,
-          "name": "Ewedu Soup",
-          "price": "314",
-          "size": "30cm"
-        },
-        {
-          "id": 12,
-          "name": "Point & Kill",
-          "price": "500",
-          "size": ""
-        },
-        {
-          "id": 13,
-          "name": "Edikaikong",
-          "price": "600",
-          "size": ""
-        },
-        {
-          "id": 14,
-          "name": "Gbegiri",
-          "price": "700",
-          "size": ""
-        },
-        {
-          "id": 15,
-          "name": "Efo-Riro",
-          "price": "800",
-          "size": ""
-        },
-        {
-          "id": 16,
-          "name": "Banga Soup",
-          "price": "100",
-          "size": ""
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/ofen_sala.jpg",
-      "name": "OfadaBoy’s Soup Lounge",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "status": "OPEN",
-      "is_favourite": false,
-      "brand": "North Indian",
-      "delivery_time": "25-35 min",
-      "ratings": "3.4",
-      "ratings-count": "23",
-      "reviews": "235",
-      "address": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "phone_primary": " +234 805 634 8013",
-      "phone_secondary": "+234 805 634 8013",
-      "email_primary": "iamosahan@gmail.com,         ",
-      "email_secondary": "osahaneat@gmail.com",
-      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
-      "open_status": "OPEN NOW",
-      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
-      "services": [
-        {
-          "id": 1,
-          "name": "Breakfast"
-        },
-        {
-          "id": 2,
-          "name": "Vegetarian Only"
-        },
-        {
-          "id": 3,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 4,
-          "name": "No Alcohol Available"
-        },
-        {
-          "id": 5,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 6,
-          "name": "Breakfast"
-        }
-      ],
-      "gallery": [
-        {
-          "id": 1,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/1.png"
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/2.png"
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/3.png"
-        }
-      ],
-      "food_category": [
-        {
-          "id": 1,
-          "name": "North"
-        },
-        {
-          "id": 1,
-          "name": "Hamburgers"
-        },
-        {
-          "id": 1,
-          "name": "Pure veg"
-        }
-      ],
-      "popularDishes": [
-        {
-          "id": 1,
-          "name": "Sandwiches",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
-          "count": "25"
-        },
-        {
-          "id": 2,
-          "name": "Soups",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png",
-          "count": "30"
-        },
-        {
-          "id": 3,
-          "name": "Pizzas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png",
-          "count": "45"
-        },
-        {
-          "id": 4,
-          "name": "Pastas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png",
-          "count": "10"
-        },
-        {
-          "id": 5,
-          "name": "Chines",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png",
-          "count": "12"
-        },
-        {
-          "id": 6,
-          "name": "Burgers",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
-          "count": "15"
-        },
-        {
-          "id": 7,
-          "name": "Steaks",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "count": "20"
-        }
-      ],
-      "best_sellers": [
-        {
-          "id": 1,
-          "name": "Bite Me Clubs",
-          "price": "229",
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "promotion": "Promoted",
-          "favourite": false,
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
-          "name": "Bite Me Sandwiches",
-          "promotion": "Promoted",
-          "price": "229",
-          "favourite": true,
-          "state": "NEW",
-          "rating": "2.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "promotion": "Promoted",
-          "name": "Famous Dave's Bar-B",
-          "favourite": true,
-          "price": "329",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "favourite": false,
-          "promotion": "Promoted",
-          "name": "Bite Me Sandwiches",
-          "price": "429",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "Hamburgers",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        }
-      ],
-      "quick_bites": [
-        {
-          "id": 5,
-          "name": "Barbecued Goat Meats (Asun)",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 6,
-          "name": "Peppered Gizzards",
-          "famous": "BESTSELLER",
-          "price": "514",
-          "size": ""
-        },
-        {
-          "id": 7,
-          "name": "Battered Fish",
-          "famous": "BESTSELLER",
-          "price": "214",
-          "size": ""
-        }
-      ],
-      "starters": [
-        {
-          "id": 8,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Bread samosa",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 9,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
-          "name": "Moimoi Eleja",
-          "famous": "BESTSELLER",
-          "price": "314",
-          "size": ""
-        },
-        {
-          "id": 10,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Owho Soup",
-          "famous": "",
-          "price": "31",
-          "size": ""
-        }
-      ],
-      "soups": [
-        {
-          "id": 11,
-          "name": "Ewedu Soup",
-          "price": "314",
-          "size": "30cm"
-        },
-        {
-          "id": 12,
-          "name": "Point & Kill",
-          "price": "500",
-          "size": ""
-        },
-        {
-          "id": 13,
-          "name": "Edikaikong",
-          "price": "600",
-          "size": ""
-        },
-        {
-          "id": 14,
-          "name": "Gbegiri",
-          "price": "700",
-          "size": ""
-        },
-        {
-          "id": 15,
-          "name": "Efo-Riro",
-          "price": "800",
-          "size": ""
-        },
-        {
-          "id": 16,
-          "name": "Banga Soup",
-          "price": "100",
-          "size": ""
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/fried_plantain.jpg",
-      "name": "Iya Moriah",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "status": "OPEN",
-      "is_favourite": false,
-      "brand": "North Indian",
-      "delivery_time": "25-35 min",
-      "ratings": "3.4",
-      "ratings-count": "23",
-      "reviews": "230",
-      "address": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "phone_primary": " +234 805 634 8013",
-      "phone_secondary": "+234 805 634 8013",
-      "email_primary": "iamosahan@gmail.com,         ",
-      "email_secondary": "osahaneat@gmail.com",
-      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
-      "open_status": "OPEN NOW",
-      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
-      "services": [
-        {
-          "id": 1,
-          "name": "Breakfast"
-        },
-        {
-          "id": 2,
-          "name": "Vegetarian Only"
-        },
-        {
-          "id": 3,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 4,
-          "name": "No Alcohol Available"
-        },
-        {
-          "id": 5,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 6,
-          "name": "Breakfast"
-        }
-      ],
-      "gallery": [
-        {
-          "id": 1,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/1.png"
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/2.png"
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/3.png"
-        }
-      ],
-      "food_category": [
-        {
-          "id": 1,
-          "name": "North"
-        },
-        {
-          "id": 1,
-          "name": "Hamburgers"
-        },
-        {
-          "id": 1,
-          "name": "Pure veg"
-        }
-      ],
-      "popularDishes": [
-        {
-          "id": 1,
-          "name": "Sandwiches",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
-          "count": "25"
-        },
-        {
-          "id": 2,
-          "name": "Soups",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png",
-          "count": "30"
-        },
-        {
-          "id": 3,
-          "name": "Pizzas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png",
-          "count": "45"
-        },
-        {
-          "id": 4,
-          "name": "Pastas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png",
-          "count": "10"
-        },
-        {
-          "id": 5,
-          "name": "Chines",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png",
-          "count": "12"
-        },
-        {
-          "id": 6,
-          "name": "Burgers",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
-          "count": "15"
-        },
-        {
-          "id": 7,
-          "name": "Steaks",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "count": "20"
-        }
-      ],
-      "best_sellers": [
-        {
-          "id": 1,
-          "name": "Bite Me Clubs",
-          "price": "229",
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "promotion": "Promoted",
-          "favourite": false,
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
-          "name": "Bite Me Sandwiches",
-          "promotion": "Promoted",
-          "price": "229",
-          "favourite": true,
-          "state": "NEW",
-          "rating": "2.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "promotion": "Promoted",
-          "name": "Famous Dave's Bar-B",
-          "favourite": true,
-          "price": "329",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "favourite": false,
-          "promotion": "Promoted",
-          "name": "Bite Me Sandwiches",
-          "price": "429",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "Hamburgers",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        }
-      ],
-      "quick_bites": [
-        {
-          "id": 5,
-          "name": "Barbecued Goat Meats (Asun)",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 6,
-          "name": "Peppered Gizzards",
-          "famous": "BESTSELLER",
-          "price": "514",
-          "size": ""
-        },
-        {
-          "id": 7,
-          "name": "Battered Fish",
-          "famous": "BESTSELLER",
-          "price": "214",
-          "size": ""
-        }
-      ],
-      "starters": [
-        {
-          "id": 8,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Bread samosa",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 9,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
-          "name": "Moimoi Eleja",
-          "famous": "BESTSELLER",
-          "price": "314",
-          "size": ""
-        },
-        {
-          "id": 10,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Owho Soup",
-          "famous": "",
-          "price": "31",
-          "size": ""
-        }
-      ],
-      "soups": [
-        {
-          "id": 11,
-          "name": "Ewedu Soup",
-          "price": "314",
-          "size": "30cm"
-        },
-        {
-          "id": 12,
-          "name": "Point & Kill",
-          "price": "500",
-          "size": ""
-        },
-        {
-          "id": 13,
-          "name": "Edikaikong",
-          "price": "600",
-          "size": ""
-        },
-        {
-          "id": 14,
-          "name": "Gbegiri",
-          "price": "700",
-          "size": ""
-        },
-        {
-          "id": 15,
-          "name": "Efo-Riro",
-          "price": "800",
-          "size": ""
-        },
-        {
-          "id": 16,
-          "name": "Banga Soup",
-          "price": "100",
-          "size": ""
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/boiled_yam.jpg",
-      "name": "The Place",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "status": "OPEN",
-      "is_favourite": false,
-      "brand": "North Indian",
-      "delivery_time": "25-35 min",
-      "ratings": "3.4",
-      "ratings-count": "23",
-      "reviews": "230",
-      "address": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "phone_primary": " +234 805 634 8013",
-      "phone_secondary": "+234 805 634 8013",
-      "email_primary": "iamosahan@gmail.com,         ",
-      "email_secondary": "osahaneat@gmail.com",
-      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
-      "open_status": "OPEN NOW",
-      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
-      "services": [
-        {
-          "id": 1,
-          "name": "Breakfast"
-        },
-        {
-          "id": 2,
-          "name": "Vegetarian Only"
-        },
-        {
-          "id": 3,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 4,
-          "name": "No Alcohol Available"
-        },
-        {
-          "id": 5,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 6,
-          "name": "Breakfast"
-        }
-      ],
-      "gallery": [
-        {
-          "id": 1,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/1.png"
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/2.png"
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/3.png"
-        }
-      ],
-      "food_category": [
-        {
-          "id": 1,
-          "name": "North"
-        },
-        {
-          "id": 1,
-          "name": "Hamburgers"
-        },
-        {
-          "id": 1,
-          "name": "Pure veg"
-        }
-      ],
-      "popularDishes": [
-        {
-          "id": 1,
-          "name": "Sandwiches",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/1.png",
-          "count": "25"
-        },
-        {
-          "id": 2,
-          "name": "Soups",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/2.png",
-          "count": "30"
-        },
-        {
-          "id": 3,
-          "name": "Pizzas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/3.png",
-          "count": "45"
-        },
-        {
-          "id": 4,
-          "name": "Pastas",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/4.png",
-          "count": "10"
-        },
-        {
-          "id": 5,
-          "name": "Chines",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/5.png",
-          "count": "12"
-        },
-        {
-          "id": 6,
-          "name": "Burgers",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/6.png",
-          "count": "15"
-        },
-        {
-          "id": 7,
-          "name": "Steaks",
-          "image": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "count": "20"
-        }
-      ],
-      "best_sellers": [
-        {
-          "id": 1,
-          "name": "Bite Me Clubs",
-          "price": "229",
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/7.png",
-          "promotion": "Promoted",
-          "favourite": false,
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/8.png",
-          "name": "Bite Me Sandwiches",
-          "promotion": "Promoted",
-          "price": "229",
-          "favourite": true,
-          "state": "NEW",
-          "rating": "2.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "promotion": "Promoted",
-          "name": "Famous Dave's Bar-B",
-          "favourite": true,
-          "price": "329",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "North Indian",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/list/9.png",
-          "favourite": false,
-          "promotion": "Promoted",
-          "name": "Bite Me Sandwiches",
-          "price": "429",
-          "state": "NEW",
-          "rating": "4.1",
-          "reviews": 200,
-          "category": "Hamburgers",
-          "food_category": [
-            {
-              "id": 1,
-              "name": "Indian"
-            }
-          ]
-        }
-      ],
-      "quick_bites": [
-        {
-          "id": 5,
-          "name": "Barbecued Goat Meats (Asun)",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 6,
-          "name": "Peppered Gizzards",
-          "famous": "BESTSELLER",
-          "price": "514",
-          "size": ""
-        },
-        {
-          "id": 7,
-          "name": "Battered Fish",
-          "famous": "BESTSELLER",
-          "price": "214",
-          "size": ""
-        }
-      ],
-      "starters": [
-        {
-          "id": 8,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Bread samosa",
-          "price": "314",
-          "famous": "",
-          "size": "21cm"
-        },
-        {
-          "id": 9,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/2.jpg",
-          "name": "Moimoi Eleja",
-          "famous": "BESTSELLER",
-          "price": "314",
-          "size": ""
-        },
-        {
-          "id": 10,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/5.jpg",
-          "name": "Owho Soup",
-          "famous": "",
-          "price": "31",
-          "size": ""
-        }
-      ],
-      "soups": [
-        {
-          "id": 11,
-          "name": "Ewedu Soup",
-          "price": "314",
-          "size": "30cm"
-        },
-        {
-          "id": 12,
-          "name": "Point & Kill",
-          "price": "500",
-          "size": ""
-        },
-        {
-          "id": 13,
-          "name": "Edikaikong",
-          "price": "600",
-          "size": ""
-        },
-        {
-          "id": 14,
-          "name": "Gbegiri",
-          "price": "700",
-          "size": ""
-        },
-        {
-          "id": 15,
-          "name": "Efo-Riro",
-          "price": "800",
-          "size": ""
-        },
-        {
-          "id": 16,
-          "name": "Banga Soup",
-          "price": "100",
-          "size": ""
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "img": "https://nadtus-fake-db.herokuapp.com/assets/images/grilled_fish.jpg",
-      "name": "Chicken Republic",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "status": "OPEN",
-      "is_favourite": false,
-      "brand": "North Indian",
-      "delivery_time": "25-35 min",
-      "ratings": "3.4",
-      "ratings-count": "23",
-      "reviews": "230",
-      "address": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "phone_primary": " +234 805 634 8013",
-      "phone_secondary": "+234 805 634 8013",
-      "email_primary": "iamosahan@gmail.com,         ",
-      "email_secondary": "osahaneat@gmail.com",
-      "opening_time": "Today 11am – 5pm, 6pm – 11pm",
-      "open_status": "OPEN NOW",
-      "more_info": "Dal Makhani, Panneer Butter Masala, Kadhai Paneer, Raita, Veg Thali, Laccha Paratha, Butter Naan",
-      "services": [
-        {
-          "id": 1,
-          "name": "Breakfast"
-        },
-        {
-          "id": 2,
-          "name": "Vegetarian Only"
-        },
-        {
-          "id": 3,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 4,
-          "name": "No Alcohol Available"
-        },
-        {
-          "id": 5,
-          "name": "Indoor Seating"
-        },
-        {
-          "id": 6,
-          "name": "Breakfast"
-        }
-      ],
-      "gallery": [
-        {
-          "id": 1,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/1.png"
-        },
-        {
-          "id": 2,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/2.png"
-        },
-        {
-          "id": 3,
-          "img": "https://askbootstrap.com/preview/osahan-eat/img/gallery/3.png"
-        }
-      ],
-      "food_category": [
-        {
-          "id": 1,
-          "name": "North"
-        },
-        {
-          "id": 1,
-          "name": "Hamburgers"
-        },
-        {
-          "id": 1,
-          "name": "Pure veg"
         }
       ],
       "popularDishes": [
@@ -5654,7 +2943,16 @@
     }
   ],
   "shopingCart": [],
-  "UserDeliveryAddress": [],
+  "UserDeliveryAddress": [
+    {
+      "deliveryArea": "asdfa",
+      "completeAddress": "sdfsdf",
+      "instructions": "sdfsdfsd",
+      "nickname": "home",
+      "userId": 5,
+      "id": 1
+    }
+  ],
   "Reviews": [
     {
       "comment": "Very Good!",
@@ -5736,6 +3034,69 @@
     {
       "id": 4,
       "img": "https://askbootstrap.com/preview/osahan-eat/img/pro4.jpg"
+    }
+  ],
+  "Orders_history": [
+    {
+      "userId": 5,
+      "orderDate": "2020-10-01T17:12:28.852Z",
+      "updatedAt": "2020-10-01T17:12:28.852Z",
+      "status": "pending",
+      "orderID": "#3",
+      "restaurantName": "Brad Mueller",
+      "restaurantAddress": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "restaurantId": 3,
+      "restaurantImage": "https://nadtus-fake-db.herokuapp.com/assets/images/eba.jpg",
+      "customerAddress": 1,
+      "items": [
+        null,
+        null,
+        null,
+        {
+          "product": {
+            "id": "3",
+            "name": "Beans",
+            "price": "130",
+            "src": "https://nadtus-fake-db.herokuapp.com/assets/images/beans.png",
+            "title": "Beans",
+            "value": "130"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "4",
+            "name": "White Rice",
+            "price": "120",
+            "src": "https://nadtus-fake-db.herokuapp.com/assets/images/white_rice.png",
+            "title": "White Rice",
+            "value": "120"
+          },
+          "quantity": 4
+        },
+        {
+          "product": {
+            "famous": "",
+            "id": 5,
+            "name": "Barbecued Goat Meats (Asun)",
+            "price": "314",
+            "size": "21cm"
+          },
+          "quantity": 3
+        },
+        {
+          "product": {
+            "famous": "BESTSELLER",
+            "id": 6,
+            "name": "Peppered Gizzards",
+            "price": "514",
+            "size": ""
+          },
+          "quantity": 0
+        }
+      ],
+      "price": 1462,
+      "id": 1
     }
   ]
 }
