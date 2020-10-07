@@ -3037,66 +3037,6 @@
     }
   ],
   "Orders_history": [
-    {
-      "userId": 5,
-      "orderDate": "2020-10-01T17:12:28.852Z",
-      "updatedAt": "2020-10-01T17:12:28.852Z",
-      "status": "pending",
-      "orderID": "#3",
-      "restaurantName": "Brad Mueller",
-      "restaurantAddress": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
-      "restaurantId": 3,
-      "restaurantImage": "https://nadtus-fake-db.herokuapp.com/assets/images/eba.jpg",
-      "customerAddress": 1,
-      "items": [
-        null,
-        null,
-        null,
-        {
-          "product": {
-            "id": "3",
-            "name": "Beans",
-            "price": "130",
-            "src": "https://nadtus-fake-db.herokuapp.com/assets/images/beans.png",
-            "title": "Beans",
-            "value": "130"
-          },
-          "quantity": 1
-        },
-        {
-          "product": {
-            "id": "4",
-            "name": "White Rice",
-            "price": "120",
-            "src": "https://nadtus-fake-db.herokuapp.com/assets/images/white_rice.png",
-            "title": "White Rice",
-            "value": "120"
-          },
-          "quantity": 4
-        },
-        {
-          "product": {
-            "famous": "",
-            "id": 5,
-            "name": "Barbecued Goat Meats (Asun)",
-            "price": "314",
-            "size": "21cm"
-          },
-          "quantity": 3
-        },
-        {
-          "product": {
-            "famous": "BESTSELLER",
-            "id": 6,
-            "name": "Peppered Gizzards",
-            "price": "514",
-            "size": ""
-          },
-          "quantity": 0
-        }
-      ],
-      "price": 1462,
-      "id": 1
-    }
-  ]
+  ],
+  "transactionHistory": []
 }
