@@ -284,54 +284,14 @@
   ],
   "users": [
     {
-      "id": 1,
-      "firstname": "Asad ali",
+      "email": "asad2@gmail.com",
+      "password": "$2a$10$PMUhBWkT6em71ziCXSra7OpK.I.g2zCakBgFZsFDLavp6ldaoKFZ6",
+      "confirmpassword": "12312312a",
+      "firstname": "Asad",
       "lastname": "Ali",
-      "email": "Asad@gmail.com",
-      "phone": "030033432123",
-      "promo": "",
-      "password": "123123",
-      "aggrement": true,
-      "payload": {
-        "id": 1,
-        "firstname": "Asad ali",
-        "lastname": "Ali12",
-        "email": "Asad@gmail.com",
-        "phone": "030033432123",
-        "promo": "",
-        "password": "123123",
-        "aggrement": true
-      }
-    },
-    {
-      "username": "saqib@gmail.com",
-      "firstname": "Saqib",
-      "lastname": "Ali",
-      "password": "11223344",
-      "confirmpassword": "11223344",
-      "termandconditions": false,
-      "promocode": "",
-      "id": 2
-    },
-    {
-      "username": "saqib@gmail.com",
-      "firstname": "Saqib",
-      "lastname": "Ali",
-      "password": "11223344",
-      "confirmpassword": "11223344",
-      "termandconditions": false,
-      "promocode": "",
-      "id": 3
-    },
-    {
-      "username": "saqib@gmail.com",
-      "firstname": "Saqib",
-      "lastname": "Ali",
-      "password": "11223344",
-      "confirmpassword": "11223344",
+      "phone": 1231231222,
       "termandconditions": true,
-      "promocode": "",
-      "id": 4
+      "id": 5
     }
   ],
   "vendorsList": [
@@ -2944,14 +2904,6 @@
   ],
   "shopingCart": [],
   "UserDeliveryAddress": [
-    {
-      "deliveryArea": "asdfa",
-      "completeAddress": "sdfsdf",
-      "instructions": "sdfsdfsd",
-      "nickname": "home",
-      "userId": 5,
-      "id": 1
-    }
   ],
   "Reviews": [
     {
