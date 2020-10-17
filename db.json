@@ -284,16 +284,6 @@
   ],
   "users": [
     {
-      "email": "asad2@gmail.com",
-      "password": "$2a$10$PMUhBWkT6em71ziCXSra7OpK.I.g2zCakBgFZsFDLavp6ldaoKFZ6",
-      "confirmpassword": "12312312a",
-      "firstname": "Asad",
-      "lastname": "Ali",
-      "phone": 1231231222,
-      "termandconditions": true,
-      "id": 5
-    },
-    {
       "email": "nouman@gmail.com",
       "password": "$2a$10$LjM4NxzZU0P7JPGhOERBheTd0kgXwemctij5/brMK01n.hoVr5JWS",
       "confirmpassword": "ahmed2405",
@@ -302,6 +292,16 @@
       "phone": 1231231234,
       "termandconditions": true,
       "id": 6
+    },
+    {
+      "email": "asad2@gmail.com",
+      "firstname": "Asad",
+      "lastname": "Ali",
+      "phone": 1231231232,
+      "password": "$2a$10$kEpz4/fWr9mX/OS5R/qioeyd4S8GiOMMDFS/iePSjtqDF7B0tLU1W",
+      "confirmpassword": "12312312a",
+      "termandconditions": true,
+      "id": 7
     }
   ],
   "vendorsList": [
@@ -2211,7 +2211,9 @@
     {
       "id": 9,
       "reviews": 231,
-      "users": [5],
+      "users": [
+        5
+      ],
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/grilled_fish.jpg",
       "brand": "Chicken Republic",
       "offer": "₦250 for three",
@@ -2776,6 +2778,22 @@
       "nickname": "home",
       "userId": 6,
       "id": 3
+    },
+    {
+      "deliveryArea": "Islamabad",
+      "completeAddress": "G-10 markaz",
+      "instructions": "High Court",
+      "nickname": "home",
+      "userId": 7,
+      "id": 4
+    },
+    {
+      "deliveryArea": "islamabad ",
+      "completeAddress": "islamabad",
+      "instructions": "high school",
+      "nickname": "home",
+      "userId": 8,
+      "id": 5
     }
   ],
   "Reviews": [
@@ -2844,6 +2862,7 @@
     }
   ],
   "Orders_history": [
+   
   ],
   "transactionHistory": []
 }
