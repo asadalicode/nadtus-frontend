@@ -4,55 +4,64 @@
       "id": "1",
       "src": "https://nadtus-fake-db.herokuapp.com/assets/images/ofada_stew.png",
       "title": "Ofada Stew",
-      "value": "156"
+      "value": "156",
+      "type": "lunch"
     },
     {
       "id": "2",
       "src": "https://nadtus-fake-db.herokuapp.com/assets/images/fried_plantain.jpg",
       "title": "Fried Plantain",
-      "value": "120"
+      "value": "120",
+      "type": "breakfast"
     },
     {
       "id": "3",
       "src": "https://nadtus-fake-db.herokuapp.com/assets/images/beans.png",
       "title": "Beans",
-      "value": "130"
+      "value": "130",
+      "type": "lunch"
     },
     {
       "id": "4",
       "src": "https://nadtus-fake-db.herokuapp.com/assets/images/white_rice.png",
       "title": "White Rice",
-      "value": "120"
+      "value": "120",
+      "type": "lunch"
     },
     {
       "id": "5",
       "src": "https://nadtus-fake-db.herokuapp.com/assets/images/chinese_rice.png",
       "title": "Chinese Rice",
-      "value": "111"
+      "value": "111",
+      "type": "lunch"
     },
     {
       "id": "6",
       "src": "https://nadtus-fake-db.herokuapp.com/assets/images/gbegiri.png",
       "title": "Gbegiri",
-      "value": "958"
+      "value": "958",
+      "type": "lunch"
     },
     {
       "id": "7",
       "src": "https://nadtus-fake-db.herokuapp.com/assets/images/pepper_soup.png",
       "title": "Pepper Soup",
-      "value": "99"
+      "value": "99",
+      "type": "snack"
     },
     {
       "id": "8",
       "src": "https://nadtus-fake-db.herokuapp.com/assets/images/fried_chicken.png",
       "title": "Fried Chicken",
-      "value": "46"
+      "value": "46",
+      "type": "dinner"
     },
     {
       "id": "9",
       "src": "https://nadtus-fake-db.herokuapp.com/assets/images/moi_moi.png",
       "title": "Moi Moi",
-      "value": "26"
+      "value": "26",
+      "type": "lunch"
     }
   ],
   "top-restaurants-trends": [
@@ -308,15 +317,18 @@
     {
       "id": 1,
       "users": [],
+      "type": "lunch",
+      "filter_cusine": "efo riro",
+      "filter_location": "surulere",
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/jollof_rice.jpg",
       "brand": "Terra Kulture",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "location": "surulere, Lagos, Nigeria",
       "status": "OPEN",
       "is_favourite": false,
       "delivery_time": "25-35 min",
       "ratings": "3.4",
       "ratings-count": "23",
-      "address": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "address": "surulere, Lagos, Nigeria",
       "phone_primary": " +234 805 634 8013",
       "phone_secondary": "+234 805 634 8013",
       "email_primary": "iamosahan@gmail.com,         ",
@@ -578,17 +590,20 @@
     },
     {
       "id": 2,
-      "users": [],
-      "reviews": 389,
+      "users": [6],
+      "filter_cusine": "chicken peppersoup",
+      "reviews": 390,
+      "type": "breakfast",
+      "filter_location": "lagos island",
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/isi_ewu.jpg",
       "brand": "Delta Pot",
       "offer": "₦200 for three",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "location": "lagos island, Lagos, Nigeria",
       "status": "OPEN",
       "is_favourite": true,
       "ratings": "3.4",
       "ratings-count": "23",
-      "address": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "address": "lagos island, Lagos, Nigeria",
       "phone_primary": " +234 805 634 8013",
       "phone_secondary": "+234 805 634 8013",
       "email_primary": "iamosahan@gmail.com,         ",
@@ -851,14 +866,17 @@
     {
       "id": 4,
       "users": [],
-      "reviews": 390,
+      "reviews": 391,
+      "filter_cusine": "fish peppersoup",
+      "type": "snack",
+      "filter_location": "ojota",
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/pounded_yam.png",
       "brand": "Labule",
       "offer": "₦200 for four",
       "name": "Fanny Bosco",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "location": "Ojota, Lagos, Nigeria",
       "status": "OPEN",
-      "is_favourite": false,
+      "is_favourite": true,
       "ratings": "3.4",
       "ratings-count": "23",
       "phone_primary": " +234 805 634 8013",
@@ -1123,12 +1141,15 @@
     {
       "id": 5,
       "users": [],
+      "filter_cusine": "ewedu",
+      "type": "dinner",
+      "filter_location": "victoria island",
       "reviews": 230,
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/chicken.jpeg",
       "brand": "Alalo Foods",
       "offer": "₦210 for three",
       "name": "Layne Kreiger",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "location": "Victoria Island, Lagos, Nigeria",
       "status": "OPEN",
       "is_favourite": false,
       "ratings": "3.4",
@@ -1395,12 +1416,15 @@
     {
       "id": 6,
       "users": [],
+      "filter_cusine": "oha soup",
+      "type": "breakfast",
       "reviews": 235,
+      "filter_location": "lekki",
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/ofen_sala.jpg",
       "brand": "OfadaBoy’s Soup Lounge",
       "offer": "₦150 for two",
       "name": "Layne Kreiger",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "location": "Lekki, Lagos, Nigeria",
       "status": "OPEN",
       "is_favourite": false,
       "ratings": "3.4",
@@ -1667,12 +1691,15 @@
     {
       "id": 7,
       "users": [],
+      "type": "dinner",
+      "filter_cusine": "coconut rice",
       "reviews": 230,
+      "filter_location": "Gbagada Estate ",
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/fried_plantain.jpg",
       "brand": "Iya Moriah",
       "offer": "₦190 for three",
       "name": "Layne Kreiger",
-      "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
+      "location": "Gbagada Estate, Lagos, Nigeria",
       "status": "OPEN",
       "is_favourite": false,
       "ratings": "3.4",
@@ -1940,6 +1967,9 @@
       "id": 8,
       "users": [],
       "reviews": 230,
+      "filter_cusine": "fried rice",
+      "type": "breakfast",
+      "filter_location": "victoria island",
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/boiled_yam.jpg",
       "brand": "The Place",
       "offer": "₦260 for three",
@@ -2211,16 +2241,18 @@
     {
       "id": 9,
       "reviews": 231,
-      "users": [
-        5
-      ],
+      "users": [],
+      "filter_cusine": "ewa aganyin",
+
+      "type": "breakfast",
+      "filter_location": "victoria island",
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/grilled_fish.jpg",
       "brand": "Chicken Republic",
       "offer": "₦250 for three",
       "name": "Layne Kreiger",
       "location": "1230E Ahmadu Bello Way, Victoria Island, Lagos, Nigeria",
       "status": "OPEN",
-      "is_favourite": false,
+      "is_favourite": true,
       "ratings": "3.4",
       "ratings-count": "23",
       "phone_primary": " +234 805 634 8013",
@@ -2485,8 +2517,11 @@
     {
       "id": 3,
       "users": [],
+      "filter_cusine": "moi moi",
+      "type": "lunch",
       "reviews": 198,
       "brand": "Saudi",
+      "filter_location": "victoria island",
       "offer": "₦300 for three",
       "img": "https://nadtus-fake-db.herokuapp.com/assets/images/eba.jpg",
       "name": "Brad Mueller",
@@ -2519,7 +2554,7 @@
       "avatar": "http://lorempixel.com/640/480/food",
       "city": "North Quentinfurt",
       "address": "6725 Champlin Lakes",
-      "delivery_time": "20-35 min",
+      "delivery_time": "30-45 min",
       "category": "bar",
       "delivery": "free Delivery",
       "open": true,
@@ -2762,42 +2797,8 @@
     }
   ],
   "shopingCart": [],
-  "UserDeliveryAddress": [
-    {
-      "deliveryArea": "Areas",
-      "completeAddress": "sdfsdf",
-      "instructions": "sdfsd",
-      "nickname": "home",
-      "userId": 5,
-      "id": 2
-    },
-    {
-      "deliveryArea": "isslamabad",
-      "completeAddress": "dfasdfasd",
-      "instructions": "asdasdsad",
-      "nickname": "home",
-      "userId": 6,
-      "id": 3
-    },
-    {
-      "deliveryArea": "Islamabad",
-      "completeAddress": "G-10 markaz",
-      "instructions": "High Court",
-      "nickname": "home",
-      "userId": 7,
-      "id": 4
-    },
-    {
-      "deliveryArea": "islamabad ",
-      "completeAddress": "islamabad",
-      "instructions": "high school",
-      "nickname": "home",
-      "userId": 8,
-      "id": 5
-    }
-  ],
-  "Reviews": [
-  ],
+  "UserDeliveryAddress": [],
+  "Reviews": [],
   "profile": {
     "name": "typicode"
   },
@@ -2861,8 +2862,6 @@
       "img": "https://askbootstrap.com/preview/osahan-eat/img/pro4.jpg"
     }
   ],
-  "Orders_history": [
-   
-  ],
+  "Orders_history": [],
   "transactionHistory": []
 }
